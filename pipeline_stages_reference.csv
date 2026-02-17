@@ -1,0 +1,7 @@
+Stage_ID,Process_Name,Dependency,Output_Format,Validation_Check
+1,Ingestion_SX,OSL_Global_List,JSON_Stream,GVL_Compliance
+2,Normalization,Sound_Rules_JSON,Unicode_UTF8,Regex_Mismatch
+3,Template_Tagging,Parsing_Rules_JSON,Dict_Object,Template_Integrity
+4,DB_Insertion,Flat_Table_Schema,SQL_Row,Primary_Key_Check
+5,Query_Translation,Operator_Map_CSV,SQL_Query,Syntax_Validation
+6,Result_Fetching,atf_flat_tokens,Result_Set,Proximity_Math
