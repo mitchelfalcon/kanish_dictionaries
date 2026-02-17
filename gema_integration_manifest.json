@@ -1,0 +1,22 @@
+{
+  "gema_integration_manifest": {
+    "version": "2.0.0",
+    "codename": "Project Kanish Core",
+    "pipeline_stages": [
+      { "id": 1, "module": "SX_Validator", "input": "raw_atf", "output": "valid_atf_stream" },
+      { "id": 2, "module": "Logic_DNA", "input": "valid_atf_stream", "output": "normalized_tokens" },
+      { "id": 3, "module": "Morph_Parser", "input": "normalized_tokens", "output": "parsed_templates" },
+      { "id": 4, "module": "SQL_Mapper", "input": "parsed_templates", "output": "atf_flat_db" }
+    ],
+    "dependency_map": {
+      "query_engine": ["atf_flat_tokens", "operator_mapping_csv"],
+      "verb_engine": ["vowel_class_json", "sound_rules_json"],
+      "ui_search": ["syntax_validator_py", "oracc_query_logic_json"]
+    },
+    "environment_config": {
+      "database": "PostgreSQL",
+      "encoding": "UTF-8",
+      "strict_mode": true
+    }
+  }
+}
