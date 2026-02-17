@@ -1,0 +1,17 @@
+ASCII_ATF,Character,Unicode_Codepoint,CDLI_Strict
+sz,š,U+161,yes
+SZ,Š,U+160,yes
+"s,",ṣ,U+1E63,yes
+"S,",Ṣ,U+1E62,yes
+"t,",ṭ,U+1E6D,yes
+"T,",Ṭ,U+1E6C,yes
+s',ś,U+015B,yes
+"S'",Ś,U+015A,yes
+',ʾ,U+02BE,yes
+0-9,₀-₉,U+2080-U+2089,yes
+x,ₓ,U+208A,yes
+X,ₓ,U+208A,yes
+"h,",ḫ,U+1E2B,no
+"H,",Ḫ,U+1E2A,no
+j,ŋ,U+014B,no
+J,Ŋ,U+014A,no
