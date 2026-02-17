@@ -1,0 +1,23 @@
+{
+  "validation_report": {
+    "timestamp": "2026-02-17T03:15:00Z",
+    "target_sign": "|KA×GAR|",
+    "summary": {
+      "errors_found": 0,
+      "warnings_found": 2,
+      "is_valid": true
+    },
+    "details": [
+      {
+        "type": "Inheritance_Override",
+        "message": "Form 'KA' explicit value 'gu3' overrides inherited 'gu7' (Base conflict: gu).",
+        "line": 6
+      },
+      {
+        "type": "Missing_Qualification",
+        "message": "Value 'subx' requires explicit sign qualification in transliteration.",
+        "line": 7
+      }
+    ]
+  }
+}
