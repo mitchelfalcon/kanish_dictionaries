@@ -1,0 +1,7 @@
+Validation_ID,Rule_Name,Trigger,Action,Level
+VAL_001,Global_Uniqueness,@sign [NAME],Check if NAME exists in sign_index,ERROR
+VAL_002,Value_Uniqueness,@v [VAL],Check if VAL exists in global_value_index,ERROR
+VAL_003,Base_Conflict,@v [INHERITED] vs @v [EXPLICIT],Compare characters before index; Explicit wins,WARNING
+VAL_004,X_Qualification,VAL ends in ₓ,Require SIGN-NAME in parentheses,WARNING
+VAL_005,Deprecation_Flag,@tag-,Mark element as obsolete for GVL,ERROR
+VAL_006,Form_Ambiguity,@form [NAME] in 2+ signs,Require @form+ to set default parent,ERROR
