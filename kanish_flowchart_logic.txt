@@ -1,0 +1,31 @@
+
+This is the master blueprint that bridges linguistic analysis with the power of relational databases. 
+
+*****************************************************************************************************************************************************************************************
+ Engineering Pipeline, an Integration File, and the Core Orchestrator code.
+*****************************************************************************************************************************************************************************************
+
+This flow ensures that no "dirty" data enters the system and that every query is mathematically precise.
+
+
+*********************************************
+1. GEMA System Pipeline (Flowchart Logic)
+*********************************************
+
+*****************************************************************************************************************************************************************************************
+
+Ingestion & SX Validation: The system receives the raw ATF text. The SX simulator verifies if the signs exist in the OSL (Oracc Global Sign List). If validation fails, the process halts.
+
+DNA Normalization: Unicode mapping is applied (e.g., sz → š, t, → ṭ). Transliteration flags like # (damaged) or ? (uncertain) are cleaned and stored as metadata.
+
+Morphological Parsing: Morphological templates are applied (N1–N6 for nouns, V1–V15 for verbs). The system "tags" prefixes, roots, and cases.
+
+Flat Table Mapping: Tokens are injected into the atf_flat_tokens table with their exact coordinates: text_id, line_uid, and token_seq.
+
+Query Interpreter: The user enters an Oracc-style formula (e.g., szu -> 1 w -> ti).
+
+SQL Translation: The Mapper generates the corresponding JOIN, INTERSECT, or EXCEPT clauses.
+
+Execution: The system extracts the specific tablet fragments that meet the logical and mathematical criteria.
+
+*****************************************************************************************************************************************************************************************
