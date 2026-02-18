@@ -1,0 +1,627 @@
+[
+  {
+    "name": "Adad-mušammer",
+    "description": "A šamallû šubultinbi (\"young apprentice\") in Huzirina, son of the scribe Nergal-tukulti PGP ; copyist of STT 1, 40.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Adad-šumu-uṣur",
+    "description": "Chief āšipu (\"exorcist\") of king Esarhaddon (r.680-669 BC), son of the famous scholar Nabu-zuqup-kena and descendant of Gabbi-ilani-ereš PGP ; owner of CTN 4, 45 in Kalhu (and possibly more tablets; see Unknown scribe PGP  [3]). Well attested in Assyrian court correspondence, sometimes in collaboration with his brother Nabu-zer-lešir PGP , colleague Urad-Ea PGP  and others.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Anu-ab-uṣur",
+    "description": "Son of Anu-mukin-apli PGP , descendant of Kuri PGP  in early Hellenistic Uruk; copyist of SpTU 1, 90; 2, 44; 4, 162 for Iqiša PGP ; the first and last of these are dated 322 BC.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Anu-ahhe-iddin",
+    "description": "Descendant of Gimil-Anu PGP , father of an unknown scribe who wrote SpTU 4, 150 for Iqiša PGP  in early Hellenistic Uruk.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Anu-ah-iddin",
+    "description": "[1] Son of Nidintu-Anu PGP  [4] in early Hellenistic Uruk; scribe of SpTU 2, 35 for Iqiša PGP .",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Anu-apal-iddin",
+    "description": "Son of Anu-šum-lišir PGP , descendant of Kuri PGP , in early Hellenistic Uruk; owner of SpTU 3, 74A.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Anu-belšunu",
+    "description": "[1] Father of Nidintu-Anu PGP  [3], descendant of Ekur-zakir family in Seleucid Uruk.\n[2] Father of the parchment scribe Labaši PGP  in Seleucid Uruk.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Anu-eriba(?)",
+    "description": "mašmaššû (\"incantation priest\") of Ištaran, son of Ištaran-banunu PGP , of Der; owner of SpTU 4, 185, written for him in late Achaemenid or early Hellenistic Der by Nidintu-Anu PGP  [1] and which made its way to Uruk.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Anu-ikṣur",
+    "description": "mašmaššû (ṣehru) (\"(junior) incantation priest\") of Anu, son of Šamaš-iddin PGP , descendant of Šangi-Ninurta PGP  in Achaemenid Uruk; owner or scribe of 24 tablets, including 4 written for Šamaš-iddin (SpTU 1, 59; 126; 3, 69; 5, 242), and two written for him by his son Anu-ušallim PGP  (SpTU 3, 90; 4, 151). The rest are SpTU 1, 28; 31; 32; 33; 38; 45, 47; 49; 50; 51; 56; 60; 72; 83; 2, 8; 3, 99; 5, 241; 248. (View all of Anu-ikṣur's tablets.) Possibly = Bel-URU.UL.LA-KA.KEŠDA PGP .",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Anu-mukin-apli",
+    "description": "Father of the scholar Anu-ab-uṣur PGP , descendant of Kuri PGP , in early Hellenistic Uruk.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Anu-šum-lišir",
+    "description": "Father of the scholar Anu-apal-iddin PGP , descendant of Kuri PGP , in early Hellenistic Uruk.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Anu-ušallim",
+    "description": "Son of Anu-ikṣur PGP , descendant of Šangi-Ninurta PGP  in Achaemenid Uruk; scribe of SpTU 3, 90 and 4, 151 for his father.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Anu-zer-lišir",
+    "description": "Son of Nidintu-Anu PGP  [1] of late Achaemenid or early Hellenistic Der; owner of SpTU 4, 125 which made its way to early Hellenistic Uruk.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Aplaya",
+    "description": "[1] turtannu (\"field marshal\") who dedicates STT 1, 56 to the god Adad in Huzirina;\n[2] Assyrian scribe and father of the Huzirina copyist Nabu-ibni PGP .",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Arad-Gula",
+    "description": "Father of the incantation priest Ištar-nadin-ahi PGP , descendant of Gimil-dGAR₃.AN PGP  in Achaemenid Uruk.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Aššur-šumu-iddina",
+    "description": "A šamallû ṣehru (\"junior apprentice\") in Huzirina, son of the scribe [xxx]-šumu-ukin PGP  and grandson of antaṣû-scribe [xxx]-emuranni PGP ; copyist of STT 1, 84 (670 BC).",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Ašu",
+    "description": "šangû-priest and father of the Huzirina copyist Iddi-Meslamtaea PGP .",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Babilaya",
+    "description": "āšip šarri (\"royal exorcist\"), descendant of Ištaran-šumu-ukin PGP , grandson of the Kalhu scholar Ištaran-mudammiq PGP  and father of Marduk-[xxx] PGP .",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Balaṭu",
+    "description": "[1] Father of Belu-kaṣir PGP , scribe in Achaemend Uruk;\n[2] Father of the lamentation priest Ištar-šum-ereš PGP  [4] in early Hellenistic Uruk;\n[3] Son of [xxx], descendant of Ekur-zakir PGP , in early Hellenistic Uruk; owner of SpTU 5, 265; maybe [2] = [3].",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Banunu",
+    "description": "An āšipu (\"exorcist\") and copyist and/or owner of CTN 4, 61; 116; 188; and 192 in Kalhu. The first is \"from a Babylonian original\" and in the second and third he exhorts, \"Do not disperse the library; taboo of Ea, king of the Apsu\". He conspicuously never mentions other family members.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Bel-[xxx]",
+    "description": "Copyist of CTN 4, 31 at Kalhu.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Bel-ah-iddin",
+    "description": "[1] A šangû-priest for whom (amongst others) the Huzirina copyist Nabu-eṭiranni PGP  copied a tablet to view;\n[2] mašmaššû ṣehru (\"junior incantation priest\"), descendant of Ekur-zakir PGP  in early Hellenistic Uruk; scribe of SpTU 3, 91 for another member of the Ekur-zakir PGP  family and owner of SpTU 1, 69, written for him by Sin-[xxx] PGP .",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Bel-ašaredu",
+    "description": "A šamallû ṣehru (\"junior apprentice\") in Huzirina; copyist of STT 2, 256.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Bel-le'u-uṣur",
+    "description": "A šamallû šubultinbi (\"young apprentice\") in Huzirina, son of Marduk-ban-apli PGP , scribe of the turtannu (\"field marshal\") and grandson of the scribe Nabu-kabit-ahhešu PGP ; copyist of STT 2, 342.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Bel-šar-ahhešu",
+    "description": "A priest of Aššur's temple and the palace in Assur; attested in Huzirina; copyist of STT 1, 89.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Beltiya-[xxx]",
+    "description": "Owner of SpTU 1, 84 in late Achaemenid or early Hellenistic Uruk.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Belu-kaṣir",
+    "description": "Son of Balaṭu PGP  [1]; scribe of SpTU 1, 43 for Rimut-Anu PGP  in Achaemenid Uruk; possibly = Bel-URU.UL.LA-KA.KEŠDA PGP .",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Bel-URU.UL.LA-KA.KEŠDA",
+    "description": "Owner of SpTU 3, 98 in Achaemenid Uruk; maybe = Anu-ikṣur PGP  or Belu-kaṣir PGP  written cryptographically.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Ea-[xxx]",
+    "description": "Assyrian scribe, son of the šamallû šubultinbi (\"young apprentice\") Šamaš-šum-iddina PGP  and grandson of Nabu-kabit-ahhešu PGP , scribe of Kutha; father of the Huzirina copyist Mutaqqin-Aššur PGP ..",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Ekur-zakir",
+    "description": "Ancestral name of a family of mašmaššûs (\"incantation priests\") of Anu and Antu in Seleucid Uruk, including Ištar-šum-ereš PGP  [1], his son Iqiša PGP  and grandson Ištar-šum-ereš PGP  [2], and maybe also the much younger descendants Ištar-šum-ereš PGP  [3] and his son Ša-Anu-iššu PGP . Tablets written or owned by unidentified members of the family are SpTU 2, 9; 39; 3, 91.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Ellil-belšunu",
+    "description": "[1] mašmaššû ṣehru (\"junior incantation priest\"), son of Ellil-napišta-uṣur PGP , descendant of Gimil-Sin PGP  in late Achaemenid or early Hellenistic Nippur; owner of SpTU 2, 54, which made its way to Uruk;\n[2] father or ancestor of Ur-Gula PGP  in late Achaemenid or early Hellenistic Nippur; possibly [1] = [2].",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Ellil-napišta-uṣur",
+    "description": "sīrāšû (\"brewer\") for an unknown deity (probably Ellil), father of Ellil-belšunu PGP  [1] and descendant of Gimil-Sin PGP  in early Hellenistic Nippur.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Gabbi-ilani-ereš",
+    "description": "Overseer of scribes, scholar of king Assurnaṣirpal II (r.883-859 BC) and ancestor of an illustrious line of royal scholars including Nabu-zuqup-kena PGP  and his son Adad-šumu-uṣur PGP  in Kalhu.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Gimil-Anu",
+    "description": "Ancestral name of a family of scholars, including Anu-ahhe-iddin PGP , associated with the Ekur-zakir PGP  family in early Hellenistic Uruk.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Gimil-GAR₃.AN",
+    "description": "Ancestral name of a family of scholars in Achaemenid Uruk, including Ištar-nadin-ahi PGP  and his father Arad-Gula PGP .",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Gimil-Nanaya",
+    "description": "Ancestral name of a scholarly family in Achaemenid Uruk, including the mašmaššû ṣehru (\"junior incantation priest\") GUB-šu-Šamaš PGP  and his father Ibni-Ištar PGP .",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Gimil-Sin",
+    "description": "Ancestral name of a family in early Hellenistic Uruk, including the mašmaššû ṣehru (\"junior incantation priest\") Ellil-belšunu PGP  [1] and his father Ellil-napišta-uṣur PGP , a temple brewer.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "GUB-šu-Šamaš",
+    "description": "mašmaššû ṣehru (\"junior incantation priest\"), son of Ibni-Ištar PGP , descendant of Gimil-Nanaya PGP  in Achaemenid Uruk; wrote SpTU 3, 67 for Ištar-nadin-ahi PGP .",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Harriru",
+    "description": "Father of the Huzirina copyist Nabu-eṭir-napšate PGP .",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Huzalu",
+    "description": "šatammu-administrator, descendant of Ištaran-šumu-ukin PGP , grandfather of the Kalhu scholar Ištaran-mudammiq PGP  and great-great-great grandfather of Marduk-[xxx] PGP .",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Ibni-Ištar",
+    "description": "Father of the junior incantation priest GUB-šu-Šamaš PGP  in Achaemenid Uruk, descendant of Gimil-Nanaya PGP .",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Iddi-Meslamtaea",
+    "description": "A šamallû (\"apprentice\") in Huzirina, son of the šangû-priest Ašu PGP ; copyist of STT 1, 33 (701 BC); STT 2, 159 (701 BC); 174; 177; and 37.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Ileʾʾi-Marduk",
+    "description": "Father of the incantation priest Sin-banunu PGP  in Achaemenid Uruk.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Indi-Nergal",
+    "description": "A šamallû (\"apprentice\") in Huzirina; copyist of STT 2, 390; possibly identical to Iddi-Meslamtaea PGP .",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Iqiša",
+    "description": "mašmaššû (\"incantation priest\"), son of Ištar-šum-ereš PGP  [1], descendant of Ekur-zakir PGP  in early Hellenistic Uruk; owner of 36 scholarly tablets, including three written for him by Anu-ab-uṣur PGP  (SpTU 1, 90; 2, 44; 4, 162), one by Anu-ah-iddin PGP  (SpTU 2, 35) and nine by his son, Ištar-šum-ereš PGP  [2] (SpTU 2, 6; 37; 3, 97; 104, 4, 140; 147; 220; RA 12, 75; TCL 6, 34). The others are SpTU 1, 14; 80; 94; 96; 128; 139; 2, 5; 18; 21; 25; 32; 34; 38; 43; 3, 65; 105; 4, 133; 150; 158; 159; 199; 5, 245; TCL 6, 17. (View all of Iqiša's tablets.)",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Ištaran-banunu",
+    "description": "Priest of Ištaran at Der in the late Achaemenid or early Hellenistic period, father of Anu-eriba(?) PGP .",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Ištaran-kabtu-ilani",
+    "description": "Father of the lamentation priest Nidintu-Anu PGP  [1] of late Achaemenid or early Hellenistic Der.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Ištaran-mudammiq",
+    "description": "Senior āšipu (\"exorcist\") of king Assurnaṣirpal II (r.883-859 BC), son of Tappuya PGP , šatammu-administrator of Der and grandson of the šatammu-administrator Huzalu PGP ; owner of CTN 4, 58 at Kalhu. Himself father of Nabu-mudammiq PGP , grandfather of Babilaya PGP , and great grandfather of Marduk-[xxx] PGP , all attested as copyists or owners of scholarly tablets at Kalhu.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Ištaran-šumu-ukin",
+    "description": "āšip šarri (\"royal exorcist\") and ancestor of six generations of šatammu-administrators Huzalu PGP  and Tappuya PGP ), āšipū šarri (Ištaran-mudammiq PGP , Nabu-mudammiq PGP , Babilaya PGP ), and the ṭupšar šarri (\"royal scribe\") Marduk-[xxx] PGP  at Kalhu, attested over the 9th and early 8th centuries BC.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Ištar-id-[xxx]",
+    "description": "Father of the junior incantation priest Šamaš-ah-iddin PGP  in Achaemenid Uruk.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Ištar-nadin-ahi",
+    "description": "mašmaššû (\"incantation priest\"), son of Arad-Gula PGP , descendant of Gimil-dGAR₃.AN PGP , in Achaemenid Uruk; owner of SpTU 3, 67, written for him by GUB-šu-Šamaš PGP .",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Ištar-šum-ereš",
+    "description": "[1] Father of Iqiša PGP , descendant of Ekur-zakir PGP ;\n[2] Son of Iqiša PGP , descendant of Ekur-zakir PGP  in early Hellenistic Uruk; scribe of nine tablets for his father (SpTU 2, 6; 37; 3, 97; 104, 4, 140; 147, 220; RA 12, 75; TCL 6, 34) and owner of a further three (SpTU 2, 2; 4, 141; 5, 240) (View all of Ištar-šum-ereš [2]'s tablets);\n[3] Father of Ša-Anu-iššu PGP  in Seleucid Uruk;\n[4] kalû (\"lamentation priest\"), son of Balaṭu PGP  [2] in early Hellenistic Uruk; mentioned in the colophon of SpTU 2, 28.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Itti-Anu-nuhšu",
+    "description": "Father of the kalû (\"lamentation priest\") of Anu Nidintu-Anu PGP  [2], descendant of Sin-leqi-unninni PGP , in late Achaemenid-early Hellenistic Uruk.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Kandalanu",
+    "description": "Senior scribe of the turtannu (\"field marshal\") and father of the Huzirina copyist Nabu-šum-iškun PGP",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Kuri",
+    "description": "Ancestral name of a family of scholars associated with the Ekur-zakir PGP  family in Seleucid Uruk, including Anu-ab-uṣur PGP , son of Anu-mukin-apli PGP , and Anu-apal-iddin PGP , son of Anu-šum-lišir PGP .",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Labaši, son of Anu-belšunu",
+    "description": "Until now, Labaši, son of Anu-belšunu, a parchment scribe (sepīru) working for the Rēš temple in Uruk, was only attested in the text MLC 2163, 28 (McEwan 1981, 31). This text is dated to SE 29, i.e. 283 BC. The tablet SpTU 5, 285, a sale of land from the āšipus' house, now shows a sepīru who is part of the contract and not only a witness as is the more frequent case. The entire tablet is badly damaged but at the end of line o 7' it is possible to restore a –ri in lu₂se-pir-⸢ri⸣, following parallels (e.g., FB 16, 1, l. 59 ; OECT 9, 15, r 13 ; VS 15, 5, l. 11) . If this reading is correcṭ Labaši can be used to date this tablet to the beginning of the Hellenistic period in Uruk, some time between the reign of Philip Arrhidaeus (323-316) and Antiochus I (280-261). As usual at this time, the word sepīru is written syllabically and not logographically. Philippe Clancier",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Mannu-iqapu",
+    "description": "mašmaššû (\"incantation priest\") of Anu and Antu, grandson of Nidintu-Anu PGP  [3], descendant of Ekur-zakir PGP  in early Hellenistic Uruk; writer of SpTU 2, 33 for his grandfather.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Mannu-ki-Babili",
+    "description": "Copyist of STT 2, 214+ (date broken) in Huzirina.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Marduk-[xxx]",
+    "description": "Overseer of [xxx], ṭupšar šarri (\"royal scribe\"), and ummānu (\"scholar\") of king Adad-nerari III (r.811-783 BC); son of the āšip šarri (\"royal exorcist\") Babilaya PGP , grandson of āšip šarri (\"royal exorcist\") Nabu-mudammiq PGP , and great-grandson of the āšip šarri (\"royal exorcist\") Ištaran-mudammiq PGP , descendant of the āšip šarri (\"royal exorcist\") Ištaran-šumu-ukin PGP ; owner of CTN 4, 8 (787 BC) at Kalhu.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Marduk-ban?-[xxx]",
+    "description": "A šamallû ṣehru (\"junior apprentice\") in Huzirina, writing ana tāmartišu \"for him to see\"; copyist of STT 2, 136 (whose original is from Babylon).",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Marduk-ban-apli",
+    "description": "[1] Scribe of the turtannu (\"field marshal\") and son of the scribe Nabu-kabit-ahhešu PGP ; father of the Huzirina copyist Bel-le'u-uṣur PGP .\n[2] Scribe and bārû-diviner, father of a Huzirina copyist whose name is unknown PGP ; possibly = [1].",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Marduk-kišir-ina-zeri(?)",
+    "description": "Mentioned in the colophons of SpTU 2, 36; 5, 260, found in early Hellenistic Uruk; the former is owned by Ninurta-ibašši(?) PGP . These names are not typical Uruk names for this period, suggesting that the tablets had travelled from northern Babylonia.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Marduk-šapik-zeri",
+    "description": "A mašmaššu-exorcist from Babylon, mentioned in the colophon of STT 1, 69 from Huzirina; it is unclear whether he is the copyist or not.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Mušallim-Baba",
+    "description": "A šamallû (agašgû) (\"(novice) apprentice\") in Huzirina, son of Qurdi-Nergal PGP  and descendant of the šangû-priest Nur-Šamaš PGP ; copyist of STT 1, 64(?); STT 2, 179; 199; 299 and 305.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Mutaqqin-Aššur",
+    "description": "A šamallû daqqu (\"tiny apprentice\") in Huzirina, son of Ea-[xxx] PGP , Assyrian scribe, grandson of the šamallû šubultinbi (\"young apprentice\") Šamaš-šum-iddina PGP , and great-grandson of Nabu-kabit-ahhešu PGP , scribe of Kutha; copyist of STT 1, 87.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Nabu-[xxx]",
+    "description": "Owner or copyist of CTN 4, 125 at Kalhu, or an ancestor of that scribe.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Nabu-ahhe-šallim",
+    "description": "Copyist of STT 1, 3; 10; and STT 2, 330 in Huzirina.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Nabu-ah-iddin",
+    "description": "[1] A šamallû (\"apprentice\") in Huzirina, who sometimes writes ana tāmarti (\"for the viewing of\") Qurdi-Nergal PGP ; copyist of STT 2, 161; 172; 237; and 247.\n[2] Eunuch and teacher of the Huzirina copyist Nabu-rehtu-uṣur PGP ; possibly = [1]",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Nabu-eriba",
+    "description": "Scribe and father of the Huzirina copyist Nabu-šabši PGP .",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Nabu-eṭir",
+    "description": "A šamallû ṣehru (\"junior apprentice\") in Huzirina, mār mummu (\"pupil\") of [xxx]; copyist of STT 2, 340.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Nabu-eṭiranni",
+    "description": "Copyist of STT 2, 301 (678 BC) in Huzirina, hanṭiš nasih (\"quickly excerpted\") ana tāmarti (\"for the viewing of\") the šangû-priest Bel-ah-iddin PGP  [1]; one [xxx]-Ninurta PGP ; the the agašgû (\"novice\") [xxx]-uṣur PGP ; the asû ṣehru (\"junior physician\") Rimut-ilani PGP ; and the šamallû ṣehru (\"junior apprentice\") Zer-ukin PGP .",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Nabu-eṭir-napšate",
+    "description": "Son of one Harriru PGP  in Huzirina; copyist of STT 2, 232 (whose original is from Babylon).",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Nabu-ibni",
+    "description": "A šamallû ligimû (\"youthful apprentice\") in Huzirina, son of the Assyrian scribe Aplaya PGP ; copyist of STT 1, 92.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Nabu-iddinu",
+    "description": "Scribe and father of the Huzirina copyist Sin-šum-i[ddin?] PGP .",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Nabu-kabit-ahhešu",
+    "description": "[1] A scribe of Kutha; father of the šamallû šubultinbi (\"young apprentice\") Šamaš-šum-iddina PGP , grandfather of the Assyrian scribe Ea-[xxx] PGP , and great-grandfather of the Huzirina copyist Mutaqqin-Aššur PGP .\n[2] Scribe; father of Marduk-ban-apli PGP , and grandfather of the Huzirina copyist Bel-le'u-uṣur PGP ; possibly = [1].",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Nabu-leʾu",
+    "description": "A son of king Esarhaddon's (r.680-669 BC) royal lamenter Urad-Ea PGP ; copyist of CTN 4, 187 at Kalhu, which he \"copied like its original for him to see\".",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Nabu-mudammiq",
+    "description": "āšip šarri (\"royal exorcist\"), descendant of Ištaran-šumu-ukin PGP , son of the Kalhu scholar Ištaran-mudammiq PGP  and grandfather of Marduk-[xxx] PGP ; , copyist or owner of CTN 4, 247 (colophon only) at Kalhu.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Nabu-rehtu-uṣur",
+    "description": "A šamallû ṣehru (\"junior apprentice\") in Huzirina, mār mummu (pupil) of the eunuch Nabu-ah-iddin PGP ; copyist of STT 1, 38 (701 BC) ana tāmarti (\"for the viewing of\") Qurdi-Nergal PGP .",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Nabu-šabši",
+    "description": "A šamallû ṣehru (\"junior apprentice\") in Huzirina, son of the scribe Nabu-eriba PGP ; copyist of STT 1, 73 (whose original is from Gula's temple in Babylon).",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Nabu-šum-iškun",
+    "description": "A son of Kandalanu PGP , senior scribe of the turtannu (\"field marshal\") in Huzirina; copyist of STT 1, 16 (date broken) and STT 2, 242.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Nabu-tukulti",
+    "description": "asû-physician and servant of the crown prince; father of the Huzirina copyist Šum-tabni-uṣur PGP .",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Nabu-zer-kitti-lešir",
+    "description": "Junior scribe and father of Ninurta-[xxx] PGP , descendant of Nur-Šamaš PGP  and Huzirina copyist.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Nabu-zer-lešir",
+    "description": "Father of an unknown scribe at Kalhu PGP ; possibly the Nabu-zer-lešir who is otherwise known as Esarhaddon's royal scribe and a son of Nabu-zuqup-kena PGP . Well attested in Assyrian court correspondence, often with his brother Adad-šumu-uṣur PGP  and colleague Urad-Ea PGP .",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Nabu-zer-ukin",
+    "description": "Scribe and father of the Huzirina copyist [xxx]-zer-ušabši PGP .",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Nabu-zuqup-kena",
+    "description": "The senior scholar of king Sargon II (r.721-705 BC), descendant of Gabbi-ilani-ereš PGP  and father and grandfather of many royal scholars, including the royal āšipu Adad-šumu-uṣur PGP  and Esarhaddon's chief scribe Nabu-zer-lešir PGP ; himself the scribe of many tablets originally written in Kalhu but later moved to Nineveh.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Nadin",
+    "description": "[1] Father of the incantation priest Šamaš-iddin PGP , descendant of Šangi-Ninurta PGP , in Achaemenid Uruk;\n[2] (if read correctly) copyist of SpTU 4, 174 for Rimut-Anu PGP , descendant of Šangi-Ninurta PGP , in Achaemenid Uruk.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Nergal-tukulti",
+    "description": "Scribe and father of the Huzirina copyist Adad-mušammer PGP .",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Nidintu-Anu",
+    "description": "[1] kalû (\"lamentation priest\") of Ištaran, son of Ištaran-kabtu-ilani PGP  and father of Anu-zer-lišir PGP , of Der; scribe of SpTU 4, 185 in Achaemenid or early Hellenistic Der for Anu-eriba(?) PGP ;\n[2] kalû (\"lamentation priest\") of Anu, son of Itti-Anu-nuhšu PGP , descendant of Sin-leqi-unninni PGP ; owner of TCL 6, 56-57 and perhaps BagM Beih. 2, 17 in late Achaemenid-early Hellenistic Uruk (338, 322 BC).\n[3] Son of Anu-belšunu PGP , descendant of Ekur-zakir PGP , mašmaššû (\"incantation priest\") of Anu and Antu; owner of SpTU 2, 33, written for him by his grandson Mannu-iqapu PGP ;\n[4] Father of Anu-ah-iddin PGP  [1]; possibly = [2] or [3].",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Ninurta-[xxx]",
+    "description": "A šamallû ṣehru (\"junior apprentice\") in Huzirina, son of the junior scribe Nabu-zer-kitti-lešir PGP , grandson of [Qurdi-Nergal PGP ?], šangû-priest of Zababa and Baba, descendant of Nur-Šamaš PGP ; copyist of STT 2, 300 (619 BC).",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Ninurta-ban-ahhe",
+    "description": "Father of the Huzirina copyist [xxx]-ani PGP .",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Ninurta-ibašši(?)",
+    "description": "Owner of SpTU 2, 36 from early Hellenistic Uruk, whose colophon also mentions Marduk-kišir-ina-zeri(?) PGP . These names are not typical Uruk names for this period, suggesting that the tablets had travelled from northern Babylonia.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Nur-Šamaš",
+    "description": "Ancestor of Qurdi-Nergal PGP , Mušallim-Baba PGP , Nabu-zer-kitti-lešir PGP  and Ninurta-[xxx] PGP  in Huzirina.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Qurdi-Nergal",
+    "description": "A šamallû agašgû (\"novice apprentice\") in Huzirina, descendant of Nur-Šamaš PGP ; copyist of STT 2, 192 (701 BC) and for whom Nabu-ah-iddin PGP  and Nabu-rehtu-uṣur PGP  both copy tablets \"for his viewing\"; later šangû-priest of Zababa and Baba from Erbil, Harran and Huzirina; father of Mušallim-Baba PGP  and possibly grandfather or great-grandfather of Ninurta-[xxx] PGP .",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Rimut",
+    "description": "Father of an unknown scribe PGP  [2], mentioned in the colophon of SpTU 1, 86 written in Uruk in 486 BC; probably not = Rimut-Anu PGP .",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Rimut-Anu",
+    "description": "mašmaššû (\"incantation priest\"), son of Šamaš-iddin PGP , descendant of Šangi-Ninurta PGP  in Achaemenid Uruk; owner of five tablets, including SpTU 1, 43, written for him by Belu-kaṣir PGP , and SpTU 4, 152; 172; 174; 5, 231; probably not = Rimut PGP .",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Rimut-ilani",
+    "description": "An asû ṣehru (\"junior physician\") for whom (amongst others) the Huzirina copyist Nabu-eṭiranni PGP  copied a tablet to view.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Sin-[xxx]",
+    "description": "mašmaššû ṣehru (\"junior incantation priest\") in early Hellenistic Uruk; owner of SpTU 1, 69, written for him by Bel-ah-iddin PGP  [2].",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Sin-banunu",
+    "description": "mašmaššû (\"incantation priest\"), son of Ileʾʾi-Marduk PGP ; owner of SpTU 3, 80 in Achaemenid Uruk.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Sin-iddina",
+    "description": "A son of one [xxx]-HA PGP  in Huzirina; copyist of STT 2, 241.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Sin-leqi-unninni",
+    "description": "Ancestor of a large kin-group of kalûs (\"lamentation priests\") in early Hellenistic and Seleucid Uruk.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Sin-šum-i[ddin?]",
+    "description": "A šamallû (\"apprentice\") in Huzirina, son of the scribe Nabu-iddinu PGP ; copyist of STT 1, 82.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Ša-Anu-iššu",
+    "description": "Son of Ištar-šum-ereš PGP  [3] in mid-Seleucid Uruk; copyist of SpTU 4, 157 for a member of the Ekur-zakir PGP  family in 227 BC.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Šamaš-ah-iddin",
+    "description": "Son of Ištar-id-[xxx] PGP ; owner of SpTU 1, 39 in Achaemenid Uruk.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Šamaš-iddin",
+    "description": "mašmaššû (\"incantation priest\"), son of Nadin PGP  [1] and father of Anu-ikṣur PGP , descendant of Šangi-Ninurta PGP  in Achaemenid Uruk; owner of 13 scholarly tablets, four written for him by his son Anu-ikṣur PGP  (SpTU 1, 59; 126; 3, 69; 5, 242). The rest are SpTU 1, 44; 48; 3, 66; 84; 100; 4, 127; 128; 5, 254; and BagM 21, 483. (View all of Šamaš-iddin's tablets.)",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Šamaš-šum-iddina",
+    "description": "A šamallû šubultinbi (\"young apprentice\") and son of Nabu-kabit-ahhešu PGP , scribe of Kutha; father of the Assyrian scribe Ea-[xxx] PGP  and grandfather of the Huzirina copyist Mutaqqin-Aššur PGP .",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Šangi-Ninurta",
+    "description": "Ancestral name of a family of mašmaššûs (\"incantation priests\") in Achaemenid Uruk, comprising at least Nadin PGP  [1], his son Šamaš-iddin PGP , his own sons Anu-ikṣur PGP  and Rimut-Anu PGP , and Anu-ikṣur PGP 's son Anu-ušallim PGP . Tablets written or owned by unknown members of the family are SpTU 1, 60; 72; 3, 116.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Šulmu-[bel]-lašme",
+    "description": "Scribe and grandfather of a Huzirina copyist whose name is unknown PGP .",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Šum-tabni-uṣur",
+    "description": "A šamallû ṣehru (\"junior apprentice\") in Huzirina, son of Nabu-tukulti PGP , asû-physician and servant of the crown prince; copyist of STT 1, 36 (717? BC); 108 (704 BC).",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Tappuya",
+    "description": "šatammu-administrator of Der, descendant of Ištaran-šumu-ukin PGP , father of the Kalhu scholar Ištaran-mudammiq PGP  and great-great grandfather of Marduk-[xxx] PGP .",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Ubru-ili",
+    "description": "A šamallû ṣehru (\"junior apprentice\") in Huzirina; copyist of STT 1, 85.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Unknown scribes at Huzirina",
+    "description": "[1] Son of [xxx], scribe of Huzirina, grandson of the scribe Šulmu-[bel]-lašme PGP ; copyist of STT 1, 71 (date missing).\n[2] A šamallû ṣehru (\"junior apprentice\") in Huzirina, son of a šangû-priest; copyist of STT 2, 394.\n[3] A šamallû ṣehru (\"junior apprentice\") in Huzirina, [with some relationship to] Iddi-Meslamtaea PGP ; copyist of STT 2, 390.\n[4] A šamallû ṣehru (\"junior apprentice\") in Huzirina, son of the scribe and bārû-diviner Marduk-ban-apli PGP ; copyist of STT 1, 70.\n[5] One or more šamallû (ṣehr(ūt)u) (\"(junior) apprentice(s)\") in Huzirina; copyist(s) of STT 1, 55; 66; and STT 2 343.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Unknown scribes at Kalhu",
+    "description": "[1] A šamallu ṣehru (\"junior apprentice\"), copyist of CTN 4, 27.\n[2] A son of Nabu-zer-lešir PGP  and copyist of CTN 4, 59 \"for the prolongation of his life\".\n[3] One or more sons or descendants of Nabu-zuqup-kena PGP ; owner(s) or copyist(s) of CTN 4, 74; 78; 89; possibly = Adad-šumu-uṣur PGP .\n[4] A son of Nabu-mudammiq PGP  and [grandson of] Ištaran-mudammiq PGP ; owner or copyist of CTN 4, 103; possibly = Babilaya PGP .\n[5] The copyist or owner of CTN 4, 144, or ancestor of that scribe.\n[6] The copyist of CTN 4, 185, who asks for the tablet [not to be removed] \"from the library of the temple\".",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Unknown scribes at Uruk",
+    "description": "[1] A son of Anu-ahhe-iddin PGP , descendant of Gimil-Anu PGP ; owner or copyist of SpTU 4, 150 for Iqiša PGP  in early Hellenistic Uruk;\n[2] a son of Rimut PGP ; owner of SpTU 1, 86 in early Hellenistic Uruk;\n[3] The owner of SpTU 1, 29 and his father;\n[4] The Urukean mašmaššû (\"incantation priest\") mentioned in the colophon of SpTU 3, 111 from Achaemenid Uruk;\n[5] The writer of SpTU 1, 139 for Iqiša PGP  in early Hellenistic Uruk;\n[6] The writer of SpTU 2, 9 for a member of the Ekur-zakir PGP  family in early Hellenistic Uruk;\n[7] The copyist of SpTU 3, 94 in Achaemenid Uruk.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Urad-Ea",
+    "description": "King Esarhaddon's royal lamenter and father of the Kalhu scholar Nabu-leʾu PGP ; attested as an occasional collaborator of Adad-šumu-uṣur PGP  in the Assyrian royal correspondence.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "Ur-Gula",
+    "description": "nêšakku-priest of Ellil in Nippur, son or descendant of Ellil-belšunu PGP  [2]; mentioned in the colophon of SpTU 3, 101, which made its way to early Hellenistic Uruk.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "Zer-ukin",
+    "description": "A šamallû ṣehru (\"junior apprentice\") for whom (amongst others) the Huzirina copyist Nabu-eṭiranni PGP  copied a tablet to view.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "[xxx]-ani",
+    "description": "A son of one Ninurta-ban-ahhe PGP  in Huzirina; copyist of STT 2, 400.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "[xxx]-emuranni",
+    "description": "antaṣû-scribe, father of the scribe [xxx]-šumu-ukin PGP  and grandfather of the Huzirina copyist Aššur-šumu-iddina PGP .",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "[xxx]-ereš",
+    "description": "A [xxx] ṣehru (\"junior [xxx]\") in Huzirina; copyist of STT 2, 368.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "[xxx]-HA",
+    "description": "Father of the Huzirina copyist Sin-iddina PGP .",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "[xxx]-Ninurta",
+    "description": "A man for whom (amongst others) the Huzirina copyist Nabu-eṭiranni PGP  copied a tablet to view.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "[xxx]-šum-ikṣur",
+    "description": "A šamallû ṣehru (\"junior apprentice\") in Huzirina; copyist of the hanṭiš nasih (\"quickly excerpted\") STT 1, 57+.",
+    "has_glossary_entry": false
+  },
+  {
+    "name": "[xxx]-šumu-ukin",
+    "description": "Scribe, son of the antaṣû-scribe [xxx]-emuranni PGP ; father of the Huzirina copyist Aššur-šumu-iddina PGP .",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "[xxx]-uṣur",
+    "description": "An agašgû (\"novice\") for whom (amongst others) the Huzirina copyist Nabu-eṭiranni PGP  copied a tablet to view.",
+    "has_glossary_entry": true
+  },
+  {
+    "name": "[xxx]-zer-ušabši",
+    "description": "A šamallû (\"apprentice\") in Huzirina, son of the scribe Nabu-zer-ukin PGP ; copyist of STT 1, 109 (date missing).",
+    "has_glossary_entry": true
+  }
+]
