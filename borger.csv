@@ -1,0 +1,10 @@
+Borger columns: ['Número de Borger', 'Valores de Borger', 'Firmar', 'Número Unicode', 'Nombre Unicode']
+  Número de Borger Valores de Borger Firmar Número Unicode                              Nombre Unicode
+0                1              COMO      𒀸        U+12038                     SIGNO CUNEIFORME CENIZA
+1                2             AŠ.AŠ      𒐀        U+12400  SIGNO CUNEIFORME SIGNO NUMÉRICO DOS CENIZA
+Parsing logic:         Regex_Pattern    Result_Value
+0    sz|s,|t,|s'|h,|j         Dynamic
+1  ^\{(?! \+)(.*?)\}$  det (semantic)
+2       ^\{\+(.*?)\}$  det (phonetic)
+3             \|.*?\|        compound
+4                .*#$            TRUE
