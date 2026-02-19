@@ -1,0 +1,37 @@
+Category,Concept,Description,Example
+General Principles,Short Lemmatization,"Basic format if the word is already known to the system.","kalbi[dog]N"
+General Principles,Long Lemmatization,"Complete format if there is new information (requires initial + and $ for normalization).","+kalbu[dog]N$kalbika"
+Workflow,Review,"Remove irrelevant alternative lemmatizations suggested by the system.","pān[front]N|immar[see]V (delete inapplicable ones)"
+Citation Forms (CF),Source,"Follow the Concise Dictionary of Akkadian (CDA), even if it differs from the CAD.",N/A
+Citation Forms (CF),Mimation,"Do not include mimation in CFs (but do in NORM0).",N/A
+Citation Forms (CF),Adjectives,"Have independent CFs even if not listed separately in CDA.",N/A
+Citation Forms (CF),Parentheses,"Ignore CDA parentheses but keep their content.","CDA a(p)puttum -> CA +apputtu"
+Guide Words (GW),Selection,"Use the first translation in CDA. If alternatives with slash (/), choose the first.","adirtu (CDA ""fear, apprehension"") -> +adirtu[fear]N"
+Guide Words (GW),Common Exceptions,"Words with fixed translation by historical convention.","ālu[city]N (no village); libbu[interior]N (no inner body)"
+Guide Words (GW),Weights and Measures,"GW or sense is always [unit].","+biltu[load//unit]N'N$bilat"
+Guide Words (GW),Stative Verbs,"Use convention [be(come) + adj].","+adāru[be(come) dark]V$īdur"
+Guide Words (GW),Local Sense,"Add // after GW for significant variations.","+hiāṭu[supervise//survey]V'V$hīṭma"
+Parts of Speech (POS),EPOS,"Effective Part of Speech. Marked after POS with an apostrophe if different or specific.","+kī[like//when]PRP'SBJ$"
+Parts of Speech (POS),Infinitivos,"Classified as V'N (verb used as noun).","+qabû[say//saying]V'N$"
+Parts of Speech (POS),Stativos,"Classified as AJ (adjective) without EPOS.","+šaṭru[written]AJ$šaṭirma"
+Normalization (NORM0),Vowel Length,"Do not use secondary length. Keep final vowel length as if no suffix.","N/A"
+Normalization (NORM0),Suffix -ma,"Not separated by hyphen in normalizations.","+šaṭru[written]AJ$šaṭirma"
+Normalization (NORM0),Morphology,"Normalize what is written, not intended. Mark long vowels.",tuš-za-zi = tušzazi
+Difficult Words,Numbers,"Only lemmatize if starting syllabically or having phonetic complement. Otherwise leave as 'n' with POS NU.","2{+u} = +šanû[two]NU$"
+Difficult Words,Technical Logograms,"If meaning is known but Akkadian reading unknown, logogram is citation form.","+BAR[(lunar velocity)]N$"
+Sentence Marking,Symbol,"Insert +. at end of sentence (where a period would go).","+. (follows indicative verbs without -ma)"
+Compound Forms (COF),Crasis,"Join words with & without spaces.","ip-pan = ina[in]PRP&pān[front]N"
+Compound Forms (COF),Compound Logograms,"Treat as single orthographic unit but lemmatize parts with &.","BAR.RA.NA = +ina[in//on]PRP'PRP$&+ahu[arm//side]N'N$ahišu"
+Semantic Units (PSU),Idioms,"If written logographically, use & between lemmas. Add #psu comment for glossary.","EME.UR.GI₇ = +lišānu[tongue]N$lišān&+kalbu[dog]N$kalbi"
+Proper Names,Format,"Initial capital. Hyphenate internal boundaries. DO NOT mark long vowels.","ri-hat-{d}60 = +Rihat-Anu[]PN$"
+Proper Names,Sumerian Names,"Use simple consonants instead of reduplicated.","Ezida (no Ezidda)"
+Proper Names,Gods,"If anthropomorphic/astro/mythological use DN. If used as common noun, use N.","+Nisaba[]DN$; nissabu[grain]N"
+POS Tags,AJ,"Adjective (including statives).",N/A
+POS Tags,N,"Noun.",N/A
+POS Tags,V,"Verb.",N/A
+POS Tags,PRP,"Preposition.",ina[in//from]
+POS Tags,SBJ,"Subjunction.",inūma[when]
+POS Tags,MOD,"Modal, negative, or conditional particle.",ul[not]; šumma[if]
+POS Tags,DP,"Demonstrative pronoun.",annû[this]
+POS Tags,IP,"Independent pronoun.",anāku[I]; šū[he/it]
+POS Tags,PP,"Possessive pronoun.",yû[mine]
