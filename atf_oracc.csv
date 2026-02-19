@@ -1,0 +1,62 @@
+Category,Description,ATF_Code/Syntax,Unicode/Extra_Info
+Character Convention,sz (š),sz,U+161 (CDLI Strict: Yes)
+Character Convention,SZ (Š),SZ,U+160 (CDLI Strict: Yes)
+Character Convention,s, (ṣ),s,,U+1E63 (CDLI Strict: Yes)
+Character Convention,S, (Ṣ),S,,U+1E62 (CDLI Strict: Yes)
+Character Convention,t, (ṭ),t,,U+1E6D (CDLI Strict: Yes)
+Character Convention,T, (Ṭ),T,,U+1E6C (CDLI Strict: Yes)
+Character Convention,s' (ś),s',U+015B (CDLI Strict: Yes)
+Character Convention,S' (Ś),S',U+015A (CDLI Strict: Yes)
+Character Convention,' (ʾ),',U+02BE (CDLI Strict: Yes)
+Character Convention,subscript 0-9,0-9,U+2080-U+2089 (CDLI Strict: Yes)
+Character Convention,subscript x (value),x,U+208A (CDLI Strict: Yes)
+Character Convention,subscript X (name),X,U+208A (CDLI Strict: Yes)
+Character Convention,h, (ḫ),h,,U+1E2B (CDLI Strict: No)
+Character Convention,H, (Ḫ),H,,U+1E2A (CDLI Strict: No)
+Character Convention,j (ŋ),j,U+014B (CDLI Strict: No)
+Character Convention,J (Ŋ),J,U+014A (CDLI Strict: No)
+Sign List,ABZ,ABZ,"R. Borger, Assyrisch-babylonische Zeichenliste"
+Sign List,BAU,BAU,"E. Burrows, Archaic Texts"
+Sign List,HZL,HZL,"C. Ruster and E. Neu, Hethitisches Zeichenlexikon"
+Sign List,KWU,KWU,"N. Schneider, Die Keilschriftzeichen der Wirtschaftsurkunden von Ur III"
+Sign List,LAK,LAK,"A. Deimel, Liste der archaischen Keilschriftzeichen"
+Sign List,MEA,MEA,"R. Labat, Manuel d'épigraphie akkadienne"
+Sign List,MZL,MZL,"R. Borger, Mesopotamisches Zeichenlexikon"
+Sign List,REC,REC,"F. Thureau-Dangin, Recherches sur l'origine de l'écriture cunéiforme"
+Sign List,RSP,RSP,"Y. Rosengarten, Répertoire commenté des signes présargoniques sumériens de Lagash"
+Sign List,ZATU,ZATU,"M. Green and H. J. Nissen, Zeichenliste der Archaischen Texte aus Uruk"
+Modifier,Curved,@c,Example: AŠ@c
+Modifier,Flat,@f,Example: 1(N01@f)
+Modifier,Gunu (4 extra wedges),@g,Example: DU@g
+Modifier,Sheshig (added še-sign),@s,Example: DU@s
+Modifier,Tenu (slanting),@t,Example: GAN2@t
+Modifier,Nutillu (unfinished),@n,Example: SAG@n
+Modifier,Zidatenu (slanting right),@z,Example: AŠ@z
+Modifier,Kabatenu (slanting left),@k,Example: AŠ@k
+Modifier,Vertically reflected,@r,Example: U@r
+Modifier,Horizontally reflected,@h,Example: N07~a@h
+Modifier,Rotated,@<DIGITS>,Example: NAGA@180
+Modifier,Variant,@v,Example: 4(ban2)@v
+Compound Operator,Beside,.,Example: |DU.DU|
+Compound Operator,Joining,+,Example: |LAGAB+LAGAB|
+Compound Operator,Containing,×,Example: |GA2×AN|
+Compound Operator,Containing/Group,×,Example: |GA2×(ME.EN)|
+Compound Operator,Above,&,Example: |DU&DU|
+Compound Operator,Crossing,%,Example: |GI%GI|
+Compound Operator,Opposing,@,Example: |LU2@LU2|
+Compound Operator,Repeated,N×,Example: |3×AN|
+Language,Akkadian,(none),Inline: a / akk
+Language,Early Akkadian,akk-x-earakk,Inline: eakk
+Language,Old Akkadian,akk-x-oldakk,Inline: oakk
+Language,Ur III Akkadian,ua,Inline: ur3akk
+Language,Old Assyrian,akk-x-oldass,Inline: oa
+Language,Old Babylonian,akk-x-oldbab,Inline: ob
+Language,Middle Assyrian,akk-x-midass,Inline: ma
+Language,Middle Babylonian,akk-x-midbab,Inline: mb
+Language,Neo-Assyrian,akk-x-neoass,Inline: na
+Language,Neo-Babylonian,akk-x-neobab,Inline: nb
+Language,Late Babylonian,akk-x-ltebab,Inline: nb
+Language,Standard Babylonian,akk-x-stdbab,Inline: sb
+Language,Hittite,hit,Inline: h / hit
+Language,Sumerian,sux / sux-x-emegir,Inline: s / sux / eg
+Language,Emesal,sux-x-emesal,Inline: e / es
