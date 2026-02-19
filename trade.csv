@@ -1,0 +1,213 @@
+Category,Transcription,Syllabic_Input,English_Translation,Notes_Description
+
+COMMODITY,annakum,an-na-kum,Tin,Strategic import (10:1 ratio with silver)
+
+COMMODITY,amūtum,a-mu-tum,Meteoric Iron,Extreme value (40x silver)
+
+COMMODITY,abarnium,a-bar-ni-um,Abarnian Textile,High quality luxury textile from Abarna
+
+COMMODITY,lulāum,lu-lá-um,Antimony,Mineral additive
+
+COMMODITY,lulium,lu-li-um,Alloy Metal,Specific alloy type
+
+COMMODITY,šaddaum,šad-da-um,Mountain Ore,Raw ore
+
+COMMODITY,itqum,it-qú-um,Fine Fleece,Unit of processed wool
+
+COMMODITY,masum,ma-as-um,Refined,Refined metal status
+
+COMMODITY,šaptum,šap-tum,Wool,Classified raw material
+
+COMMODITY,mutatum,mu-ta-tum,Half-pack,Sub-division of goods
+
+COMMODITY,zakum,za-ku-um,Pure,Cleaned or pure status
+
+COMMODITY,erûm,er-ú-um,Bronze,Industrial alloy for tools
+
+COMMODITY,raqqutum,ra-qú-tum,Thin Textile,Fine garment/Domestic production
+
+COMMODITY,damqum,da-mu-qú-um,Good Quality,High grade material
+
+COMMODITY,šurum,šu-ru-um,Black Wool,Specific dark variety of textile
+
+COMMODITY,werium,we-ri-um,Copper,Local Anatolian trade (šabartum/massuhum)
+
+COMMODITY,šuqulum,šu-qú-lum,Package,Unit of commodity
+
+COMMODITY,pašalum,pa-ša-lum,Alloy,Gold-silver alloy
+
+COMMODITY,kaspum,ka-as-pum,Silver,Standard currency and central unit of account
+
+COMMODITY,šubūrum,šu-bu-ru-um,Subarian Textile,Textile technique from Subartu
+
+COMMODITY,kutānum,ku-ta-nu-um,Standard Textile,Main export of Assur
+
+COMMODITY,lubuštum,lu-bu-u-tum,Clothing,General apparel
+
+COMMODITY,husārum,hu-sà-rum,Lapis Lazuli,Luxury imported gemstone
+
+COMMODITY,epattum,e-pá-tum,Luxury Garment,Expensive dress for elites and gifts
+
+COMMODITY,hurāṣum,hu-ra-ṣum,Gold,Investment asset of high purity
+
+FINANCE,habul,ha-bu-ul,Is Owing,Debt status indicator
+
+FINANCE,dātum,da-tum,Transport Toll,Road expenses and tolls
+
+FINANCE,erbum,er-bu-um,Income,Entry revenue
+
+FINANCE,šaqālam,ša-qá-lam,To Weigh out,Action of payment/weighing
+
+FINANCE,munutum,mu-nu-tum,Numerical Audit,Quantitative audit
+
+FINANCE,dīnum,di-nu-um,Verdict,Judicial sentence
+
+FINANCE,isinum,i-si-num,Festival Fund,Religious expense capital
+
+FINANCE,wabartum,wa-bar-tum,Trading Post,Small trade hub
+
+FINANCE,naṣbatum,na-as-ba-tum,Guaranty,Security deposit
+
+FINANCE,babtum,ba-ab-tum,Deficit,Outstanding balance in accounts
+
+FINANCE,ešartum,e-ša-ar-tum,Tithe,One-tenth tax
+
+FINANCE,mašakātum,ma-ša-kà-tum,Deposits,Goods held in trust
+
+FINANCE,nišhātum,ni-iš-ha-tum,Excise Tax,5% import tax from Anatolian palace
+
+FINANCE,bārum,ba-a-ru-um,To Prove,Legal verification process
+
+FINANCE,isurtum,i-su-ur-tum,Decree,Administrative record
+
+FINANCE,mamītum,ma-mi-tum,Oath,Legal treaty and oath
+
+FINANCE,tadmiqtum,ta-ad-mi-iq-tum,Friendly Loan,Credit based on mutual trust
+
+FINANCE,tahūmum,ta-hu-mu-um,Border Tax,Frontier toll
+
+FINANCE,šadūutu,ša-du-u-tu,Management Fee,Collection fee
+
+FINANCE,kārum,kà-ru-um,Trading Station,Trade guild/Quay authority
+
+FINANCE,nēmelum,ne-me-lum,Profit,Net profit after costs and fees
+
+FINANCE,mušukum,mu-šu-kum,Poor Quality,Discounted item status
+
+FINANCE,šīmum,ši-mu-um,Price,Agreed purchase price/value
+
+FINANCE,gamrum,ga-am-ru-um,Expenses,Total costs incurred
+
+FINANCE,šapartum,ša-pár-tum,Pledge,Collateral asset
+
+FINANCE,ikribū,ik-ri-bu,Votive Funds,Capital belonging to deities for trade
+
+FINANCE,isirtum,i-si-ir-tum,Collection,Debt collection executive action
+
+FINANCE,ṣibtum,ṣí-ib-tum,Interest,Accrued interest (usually 30% annually)
+
+FINANCE,šībutum,ši-bu-tum,Testimony,Legal proof and witness declaration
+
+FINANCE,nikkassū,ni-kà-sú,Accounts,Accounting audit and formal closing
+
+FINANCE,pazzurtum,pá-zu-ur-tum,Smuggling,Tax evasion via illegal routes
+
+FINANCE,naruqqum,na-ru-qú-um,Venture Capital,Long-term investment fund (sack)
+
+FINANCE,beūlātum,be-ú-lá-tum,Working Capital,Operating funds for agents
+
+FINANCE,hubullum,hu-bu-lum,Debt,Interest-bearing debt obligation
+
+KINSHIP,bēlum,be-lum,Lord,Owner of the firm
+
+KINSHIP,mudum,mu-du-um,Acquaintance,Business contact
+
+KINSHIP,merum,me-er-um,Descendant,Heir
+
+KINSHIP,habātum,ha-ba-tum,Robber,Caravan security risk
+
+KINSHIP,ummum,um-mu-um,Mother,Admin and logistics manager in Ashur
+
+KINSHIP,nuāum,nu-a-um,Native,Anatolian person
+
+KINSHIP,sāridum,sà-ri-du-um,Driver,Donkey driver/Operational staff
+
+KINSHIP,mārum,ma-ru-um,Son,Expeditionary field agent in Anatolia
+
+KINSHIP,mārtum,ma-ar-tum,Daughter,Textile producer
+
+KINSHIP,wašibum,wa-ši-bu-um,Resident,Local inhabitant
+
+KINSHIP,aššatum,aš-ša-tum,Wife,Legal representative
+
+KINSHIP,ahum,a-hu-um,Brother,Risk partner
+
+KINSHIP,ahātum,a-ha-tum,Sister,Passive investor
+
+KINSHIP,emum,e-mu-um,Father-in-law,Commercial ally
+
+KINSHIP,šamallā’um,ša-ma-lá-um,Apprentice,Traveling junior agent
+
+KINSHIP,kaṣṣārum,kà-ṣà-ru-um,Caravaneer,Logistics leader/Cargo head
+
+KINSHIP,tamkārum,tam-kà-ru-um,Merchant,Primary creditor/Chief lender
+
+KINSHIP,tupšarrum,tup-ša-ru-um,Scribe,Notary/Archive manager
+
+KINSHIP,rubā’um,ru-ba-um,Prince,Local Anatolian political ruler
+
+KINSHIP,abum,a-bu-um,Father,Head of the firm/Strategic lead
+
+ACTION,leqûm,le-qú-um,To Take,Receive payment
+
+ACTION,erābum,e-ra-bu-um,To Enter,Arrive at customs
+
+ACTION,waṣāum,wa-ṣá-um,To Leave,Export from Ashur
+
+ACTION,alākum,a-lá-kum,To Travel,Caravan movement cycle
+
+ACTION,kašādum,kà-ša-dum,To Reach,Arrive at destination/Success
+
+ACTION,nadānum,na-da-num,To Give,Formal transfer of ownership
+
+ACTION,lapātum,la-pá-tum,To Record,Write on clay tablet
+
+ACTION,sahārum,sà-ha-ru-um,To Turn,To delay or stay
+
+ACTION,šapārum,ša-pá-ru-um,To Send,Send message or goods
+
+ACTION,abākum,a-ba-kum,To Dispatch,Lead away goods under custody
+
+ACTION,paqādum,pá-qá-dum,To Entrust,Assign to an agent
+
+ACTION,amārum,a-ma-ru-um,To Inspect,View tablets/Verify
+
+ACTION,šaqālum,ša-qá-lum,To Weigh,To pay physically in silver
+
+MEASURE,hamuštum,ha-mu-uš-tum,Week/Fifth,Cycle of 5-10 days or fractional unit
+
+MEASURE,warhum,wa-ar-hu-um,Month,30 days lunar period
+
+MEASURE,šattum,ša-tu-um,Year,360 days cycle
+
+MEASURE,limum,li-mu-um,Eponym,Official year dating system
+
+MEASURE,naruqqum,na-ru-qú-um,Sack size,Measure of wool weight
+
+MEASURE,šiqlum,ší-iq-lum,Shekel,Base unit of silver (~8.4g)
+
+MEASURE,manum,ma-nu-um,Mina,60 shekels (~500g)
+
+MEASURE,biltum,bi-il-tum,Talent,60 minas (~30kg) donkey load
+
+ARTIFACT,ṭuppum,ṭup-pu-um,Tablet,Clay script information support
+
+ARTIFACT,bulla,bulla,Sealing,Fardo identification label
+
+ARTIFACT,karpatum,kà-ar-pá-tum,Vessel,Clay storage container
+
+ARTIFACT,kunukkum,ku-nu-ku-um,Cylinder Seal,Legal identity and signature tool
+
+ARTIFACT,harmum,ha-ar-mu-um,Envelope,Legal protection and sealing
+
+ARTIFACT,duck_weight,duck_weight,Duck Weight,Metric precision stone weight
