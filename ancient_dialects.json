@@ -1,0 +1,178 @@
+[
+  {
+    "language_dialect": "Akkadian (Generic)",
+    "code_iso_project": "akk",
+    "abbreviation_clean": "a, akk",
+    "abbreviation_original_input": "a or akk",
+    "dna_unique_id": "akk_a",
+    "notes": "Must specify the dialect as well."
+  },
+  {
+    "language_dialect": "Early Akkadian",
+    "code_iso_project": "akk-x-earakk",
+    "abbreviation_clean": "eakk",
+    "abbreviation_original_input": "eakk",
+    "dna_unique_id": "akk-x-earakk_eakk",
+    "notes": "For pre-Sargonic Akkadian."
+  },
+  {
+    "language_dialect": "Old Akkadian",
+    "code_iso_project": "akk-x-oldakk",
+    "abbreviation_clean": "oakk",
+    "abbreviation_original_input": "oak",
+    "dna_unique_id": "akk-x-oldakk_oakk",
+    "notes": ""
+  },
+  {
+    "language_dialect": "Ur III Akkadian",
+    "code_iso_project": "akk-x-ur3",
+    "abbreviation_clean": "ua",
+    "abbreviation_original_input": "ua",
+    "dna_unique_id": "akk-x-ur3_ua",
+    "notes": "Code adjusted to standard."
+  },
+  {
+    "language_dialect": "Old Assyrian",
+    "code_iso_project": "akk-x-oldass",
+    "abbreviation_clean": "oa",
+    "abbreviation_original_input": "oa",
+    "dna_unique_id": "akk-x-oldass_oa",
+    "notes": "Input \"viejo\" corrected."
+  },
+  {
+    "language_dialect": "Old Babylonian",
+    "code_iso_project": "akk-x-oldbab",
+    "abbreviation_clean": "ob",
+    "abbreviation_original_input": "outside broadcast",
+    "dna_unique_id": "akk-x-oldbab_ob",
+    "notes": ""
+  },
+  {
+    "language_dialect": "Old Babylonian Peripheral",
+    "code_iso_project": "akk-x-obperi",
+    "abbreviation_clean": "obp",
+    "abbreviation_original_input": "",
+    "dna_unique_id": "akk-x-obperi_obp",
+    "notes": ""
+  },
+  {
+    "language_dialect": "Middle Assyrian",
+    "code_iso_project": "akk-x-midass",
+    "abbreviation_clean": "ma",
+    "abbreviation_original_input": "mom",
+    "dna_unique_id": "akk-x-midass_ma",
+    "notes": ""
+  },
+  {
+    "language_dialect": "Middle Babylonian",
+    "code_iso_project": "akk-x-midbab",
+    "abbreviation_clean": "mb",
+    "abbreviation_original_input": "megabyte",
+    "dna_unique_id": "akk-x-midbab_mb",
+    "notes": ""
+  },
+  {
+    "language_dialect": "Middle Babylonian Peripheral",
+    "code_iso_project": "akk-x-mbperi",
+    "abbreviation_clean": "mbp",
+    "abbreviation_original_input": "",
+    "dna_unique_id": "akk-x-mbperi_mbp",
+    "notes": ""
+  },
+  {
+    "language_dialect": "Neo-Assyrian",
+    "code_iso_project": "akk-x-neoass",
+    "abbreviation_clean": "na",
+    "abbreviation_original_input": "n/a",
+    "dna_unique_id": "akk-x-neoass_na",
+    "notes": ""
+  },
+  {
+    "language_dialect": "Neo-Babylonian",
+    "code_iso_project": "akk-x-neobab",
+    "abbreviation_clean": "nb",
+    "abbreviation_original_input": "note well",
+    "dna_unique_id": "akk-x-neobab_nb",
+    "notes": ""
+  },
+  {
+    "language_dialect": "Late Babylonian",
+    "code_iso_project": "akk-x-ltebab",
+    "abbreviation_clean": "lb",
+    "abbreviation_original_input": "note well",
+    "dna_unique_id": "akk-x-ltebab_lb",
+    "notes": "Corrected from NB to LB."
+  },
+  {
+    "language_dialect": "Standard Babylonian",
+    "code_iso_project": "akk-x-stdbab",
+    "abbreviation_clean": "sb",
+    "abbreviation_original_input": "somebody",
+    "dna_unique_id": "akk-x-stdbab_sb",
+    "notes": ""
+  },
+  {
+    "language_dialect": "Conventional Akkadian",
+    "code_iso_project": "akk-x-conakk",
+    "abbreviation_clean": "ca",
+    "abbreviation_original_input": "California",
+    "dna_unique_id": "akk-x-conakk_ca",
+    "notes": "Artificial, for lemmatization."
+  },
+  {
+    "language_dialect": "Normalized",
+    "code_iso_project": "akk-x-norm",
+    "abbreviation_clean": "n",
+    "abbreviation_original_input": "north",
+    "dna_unique_id": "akk-x-norm_n",
+    "notes": "Avoid if possible."
+  },
+  {
+    "language_dialect": "Transliterated Akkadian",
+    "code_iso_project": "akk-x-graph",
+    "abbreviation_clean": "gr",
+    "abbreviation_original_input": "gram",
+    "dna_unique_id": "akk-x-graph_gr",
+    "notes": "Graphemic."
+  },
+  {
+    "language_dialect": "Hittite",
+    "code_iso_project": "hit",
+    "abbreviation_clean": "hit",
+    "abbreviation_original_input": "hit",
+    "dna_unique_id": "hit_hit",
+    "notes": ""
+  },
+  {
+    "language_dialect": "Sumerian",
+    "code_iso_project": "sux",
+    "abbreviation_clean": "s, sux, eg",
+    "abbreviation_original_input": "s, sux, or e.g.",
+    "dna_unique_id": "sux_s",
+    "notes": "Main dialect (Emegir)."
+  },
+  {
+    "language_dialect": "Emesal (Sumerian)",
+    "code_iso_project": "sux-x-emesal",
+    "abbreviation_clean": "es, e",
+    "abbreviation_original_input": "es",
+    "dna_unique_id": "sux-x-emesal_es",
+    "notes": "Sociolinguistic dialect."
+  },
+  {
+    "language_dialect": "Syllabic (Sumerian)",
+    "code_iso_project": "sux-x-syll",
+    "abbreviation_clean": "sy",
+    "abbreviation_original_input": "yes",
+    "dna_unique_id": "sux-x-syll_sy",
+    "notes": ""
+  },
+  {
+    "language_dialect": "Udgalnun (Sumerian)",
+    "code_iso_project": "sux-x-udgalnun",
+    "abbreviation_clean": "ud",
+    "abbreviation_original_input": "you",
+    "dna_unique_id": "sux-x-udgalnun_ud",
+    "notes": "Cryptic orthography."
+  }
+]
