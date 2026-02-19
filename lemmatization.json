@@ -1,0 +1,50 @@
+[
+  {
+    "column": "Transliteration",
+    "description": "The raw transliterated form (input).",
+    "example": "i-na, LUGAL",
+    "required": true
+  },
+  {
+    "column": "CF",
+    "description": "Citation Form (dictionary form).",
+    "example": "ina, šarru",
+    "required": true
+  },
+  {
+    "column": "GW",
+    "description": "Guide Word (main CDA meaning).",
+    "example": "in, king",
+    "required": true
+  },
+  {
+    "column": "Sense",
+    "description": "Specific contextual meaning (optional).",
+    "example": "on, royal",
+    "required": false
+  },
+  {
+    "column": "POS",
+    "description": "Part of Speech (grammatical category).",
+    "example": "PRP, N",
+    "required": true
+  },
+  {
+    "column": "EPOS",
+    "description": "Effective POS (actual function in context).",
+    "example": "SBJ (for kī)",
+    "required": false
+  },
+  {
+    "column": "NORM0",
+    "description": "Normalization (complete phonetic form).",
+    "example": "ina, šarri",
+    "required": true
+  },
+  {
+    "column": "Dialect",
+    "description": "Dialect of the text (if it varies).",
+    "example": "sb, na, ob",
+    "required": false
+  }
+]
