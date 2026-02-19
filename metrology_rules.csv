@@ -243,3 +243,14 @@ Kassite & 1st Millennium,Reed measure (Small Lengths),1 ŠU.SI (Area),"n; +ubān
 Kassite & 1st Millennium,Reed measure (Small Lengths),1 KUŠ TUR,"n; ammat...; +ṣehru...",1 cubit × 1 cubit = 1 small cubit,0.25 m²
 Kassite & 1st Millennium,Reed measure (Small Lengths),1 KUŠ (Area),"n; +ammat...",1 reed × 1 cubit = 1 area cubit,1.75 m²
 Kassite & 1st Millennium,Reed measure (Small Lengths),1 GI (Area),"n; +qanû...",1 reed × 1 reed = 1 area reed,12.25 m²
+Old Akkadian (Sargonic),Capacity (System A),1 SILA₃,"n; +qû[unit]N$qā","1 qûm (Standard Sargonic)",1 litre
+Old Akkadian (Sargonic),Capacity (System A),1(BAN₂),"n","1 sūtum = 10 qû",10 litres
+Old Akkadian (Sargonic),Capacity (System A),1(BARIG),"n","1 pānum = 4 sūtum (CRITICAL Sargonic Difference)",40 litres
+Old Akkadian (Sargonic),Capacity (System A),1(AŠ) GUR,"n; +kurru[unit]N$kur","1 kurrum = 4 pānum = 160 qû",160 litres
+Old Akkadian (Sargonic),Capacity (System A),2(AŠ) GUR,"n; +kurru[unit]N$kur",2 kurrum,320 litres
+Old Akkadian (Sargonic),Area (Old Style),1 GANA₂,"n; +ikû[unit]N$ikā","1 ikû = 100 SAR",0.36 ha
+Old Akkadian (Sargonic),Area (Old Style),1(EŠE₃),"n","1 eblu = 6 ikû",2.16 ha
+Old Akkadian (Sargonic),Area (Old Style),1(BUR₃),"n","1 būru = 3 eblu = 18 ikû",6.48 ha
+Old Akkadian (Sargonic),Weight (Sargonic),1 GIN₂,"n; +šiqlu[unit]N$šiqil","1 shekel = 180 grains (Standardized by Naram-Sin)",8.3 g
+Old Akkadian (Sargonic),Weight (Sargonic),1 MA.NA,"n; +manû[unit]N$manā","1 mina = 60 shekels",0.5 kg
+Old Akkadian (Sargonic),Weight (Sargonic),1 GUN,"n; +biltu[load//unit]N$bilat","1 talent = 60 minas",30 kg
