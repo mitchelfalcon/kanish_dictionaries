@@ -1,0 +1,286 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Cuneiform NLP Processing DSL (MARDUK OMEGA v10.0 - Hyper-Integrated)",
+  "description": "JSON implementation including Wedge Paleography, Verbal Stems, Site-Specific Statistics, and Phonological Assimilation Rules.",
+  "type": "object",
+  "required": [
+    "meta_header",
+    "processing_protocols",
+    "period_configuration"
+  ],
+  "oneOf": [
+    {
+      "required": ["physical_artifact"],
+      "not": { "required": ["composite_structure"] }
+    },
+    {
+      "required": ["composite_structure"],
+      "not": { "required": ["physical_artifact"] }
+    }
+  ],
+  "properties": {
+    "meta_header": {
+      "type": "object",
+      "required": ["p_number"],
+      "properties": {
+        "p_number": {
+          "type": "string",
+          "pattern": "^[&][PQ][0-9]+$",
+          "description": "Primary Identifier: P (Physical), Q (Composite)."
+        },
+        "project_scope": { "type": "string" },
+        "chronology_engine": {
+          "type": "object",
+          "properties": {
+            "date_string": {
+              "type": "string",
+              "pattern": "^([A-Za-z0-9\\s]+|--)\\.([A-Za-z0-9\\-\\.\\s]+|--)\\.([A-Za-z0-9\\=\\-\\.\\s]+|00|--)\\.([A-Za-z0-9\\s]+|00|--)\\.([0-9]{2}|00|--)$",
+              "description": "Validates [DYNASTY].[RULER].[YEAR].[MONTH].[DAY] syntax."
+            },
+            "components": { "$ref": "#/definitions/date_components" }
+          }
+        },
+        "provenance_and_statistics": {
+          "description": "Detailed site distribution based on ELA/LEX/LIT counts.",
+          "type": "object",
+          "properties": {
+            "site_name": { 
+              "type": "string", 
+              "enum": ["Abu Jawan", "Abu Salabikh", "Adab", "Assur", "Babylon", "Ebla", "Girsu", "Kish", "Lagash", "Mari", "Nineveh", "Nippur", "Sippar", "Umma", "Ur", "Uruk"] 
+            },
+            "museum_number": { "type": "string" },
+            "excavation_number": { "type": "string" },
+            "site_stats": {
+              "description": "Historical distribution counts by genre (ELA, LEX, LIT, STL).",
+              "type": "object",
+              "patternProperties": {
+                "^(ED_I_II|ED_IIIa|ED_IIIb|Ebla|Old_Akkadian|Lagash_II|Ur_III|Old_Babylonian|Neo_Assyrian|Neo_Babylonian|Hellenistic)$": {
+                  "$ref": "#/definitions/genre_stats"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "universal_connectivity": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/lod_link" }
+    },
+    "processing_protocols": {
+      "type": "object",
+      "required": ["dialect", "atf_edition_standard"],
+      "properties": {
+        "dialect": { "type": "string" },
+        "atf_edition_standard": {
+          "enum": [
+            "CDLI_ATF", "Primer", "Quick_Reference", "Labels", "Translations",
+            "Metrology", "Protocols", "Heaps", "Composites", "Commentary",
+            "Linkage", "Bilinguals", "Lexical_Texts", "Maths", "Complex_Layouts",
+            "Advanced_Conventions"
+          ]
+        },
+        "linguistic_rules": {
+          "type": "object",
+          "properties": {
+            "phonology": {
+              "type": "object",
+              "properties": {
+                "vowels": { "type": "array", "items": { "type": "string" }, "default": ["a", "e", "i", "u"] },
+                "emphatics": { 
+                  "type": "object", 
+                  "properties": {
+                    "sz": { "const": "š" },
+                    "s_comma": { "const": "ṣ" },
+                    "t_comma": { "const": "ṭ" },
+                    "h_comma": { "const": "ḫ" }
+                  }
+                },
+                "assimilation_rules": {
+                  "description": "Phonetic shift rules (e.g., n-assimilation, sibilant-š to ss).",
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "rule_name": { "type": "string" },
+                      "input_pattern": { "type": "string" },
+                      "output_pattern": { "type": "string" },
+                      "example": { "type": "string" }
+                    }
+                  }
+                }
+              }
+            },
+            "verbal_system": {
+              "description": "Triconsonantal root system and stem (Binyanim) definitions.",
+              "type": "object",
+              "properties": {
+                "root_pattern": { "type": "string", "default": "C1-C2-C3" },
+                "stems": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "code": { "enum": ["G", "D", "Š", "N", "Gtn", "Gt", "Dtn", "Dt", "Štn", "Št"] },
+                      "function": { "enum": ["Basic", "Factitive", "Causative", "Passive", "Iterative", "Reciprocal"] },
+                      "characteristic_morphology": { "type": "string" }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "palaeographic_engine": {
+          "description": "Cuneiform wedge orientation and physical sign composition.",
+          "type": "object",
+          "properties": {
+            "wedge_types": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "name": { "enum": ["Horizontal", "Vertical", "Diagonal", "Winkelhaken"] },
+                  "unicode_rep": { "type": "string" },
+                  "description": { "type": "string" }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "period_configuration": {
+      "type": "object",
+      "required": ["period"],
+      "properties": {
+        "period": {
+          "enum": [
+            "ED_I_II", "ED_IIIa", "ED_IIIb", "Ebla", "Old_Akkadian", "Harappan",
+            "Lagash_II", "Ur_III", "Old_Assyrian", "Early_Old_Babylonian",
+            "Old_Babylonian", "Middle_Assyrian", "Middle_Babylonian",
+            "Middle_Hittite", "Neo_Assyrian", "Neo_Babylonian",
+            "Late_Babylonian", "Achaemenid", "Hellenistic", "Sassanian", "Uncertain"
+          ]
+        },
+        "lemmatization_style": { "type": "string", "default": "OB_Guidelines_Oracc" }
+      }
+    },
+    "glossary_registry": { "type": "array", "items": { "$ref": "#/definitions/lexical_entry" } },
+    "physical_artifact": {
+      "type": "object",
+      "properties": {
+        "object_type": { "type": "string" },
+        "surfaces": { "type": "array", "items": { "$ref": "#/definitions/surface_node" } }
+      }
+    },
+    "composite_structure": {
+      "type": "object",
+      "properties": {
+        "composite_id": { "type": "string" },
+        "divisions": { "type": "array", "items": { "$ref": "#/definitions/composite_division" } }
+      }
+    }
+  },
+  "definitions": {
+    "genre_stats": {
+      "type": "object",
+      "properties": {
+        "ELA": { "type": "integer", "description": "Economic-Legal Administration" },
+        "LEX": { "type": "integer", "description": "Lexical Lists" },
+        "LIT": { "type": "integer", "description": "Literary/Scholarly" },
+        "STL": { "type": "integer", "description": "Statutes/Royal Inscriptions" },
+        "UNK": { "type": "integer", "description": "Unknown" }
+      }
+    },
+    "date_components": {
+      "type": "object",
+      "properties": {
+        "dynasty": { "type": "string" },
+        "ruler": { "type": "string" },
+        "year": { "type": "string" },
+        "month": { "type": "string" },
+        "day": { "type": "string" }
+      }
+    },
+    "surface_node": {
+      "type": "object",
+      "properties": {
+        "tag": { "enum": ["@obverse", "@reverse", "@left", "@right", "@top", "@bottom", "@edge"] },
+        "columns": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "column_id": { "type": "integer" },
+              "lines": { "type": "array", "items": { "$ref": "#/definitions/text_line" } }
+            }
+          }
+        }
+      }
+    },
+    "text_line": {
+      "type": "object",
+      "properties": {
+        "line_number": { "type": "integer" },
+        "atf_coordinates": { "type": "string" },
+        "language_shift": { "type": "string" },
+        "tokens": { "type": "array", "items": { "$ref": "#/definitions/gdl_token" } }
+      }
+    },
+    "gdl_token": {
+      "type": "object",
+      "required": ["gdl_type", "neural_weight"],
+      "properties": {
+        "gdl_type": { "enum": ["v", "s", "n", "c", "q", "p", "det", "glo", "x"] },
+        "syllable_class": { "enum": ["V", "CV", "VC", "CVC", "Logogram"] },
+        "content": {
+          "oneOf": [
+            { "title": "Value", "properties": { "val": { "type": "string" }, "unicode": { "type": "string" } } },
+            { "title": "Sign", "properties": { "name": { "type": "string" }, "list_id": { "type": "string" } } },
+            { "title": "Compound", "$ref": "#/definitions/gdl_compound" }
+          ]
+        },
+        "lemmatization": {
+          "type": "object",
+          "properties": {
+            "root": { "type": "string", "description": "Triconsonantal root e.g. p-r-s" },
+            "stem": { "enum": ["G", "D", "Š", "N", "Gt", "Gtn", "Dt", "Dtn", "Št", "Štn"] },
+            "tense": { "enum": ["Preterite", "Present", "Perfect", "Imperative", "Stative"] },
+            "norm": { "type": "string" },
+            "cacf": { "type": "string" }
+          }
+        },
+        "neural_weight": { "type": "number", "minimum": 0, "maximum": 1 }
+      }
+    },
+    "gdl_compound": {
+      "type": "object",
+      "properties": {
+        "model": { "type": "string", "description": "Recursive definition placeholder" }
+      }
+    },
+    "lod_link": {
+      "type": "object",
+      "properties": {
+        "repository": { "type": "string" },
+        "id": { "type": "string" },
+        "uri": { "type": "string" }
+      }
+    },
+    "lexical_entry": {
+      "type": "object",
+      "properties": {
+        "citation_form": { "type": "string" },
+        "guide_word": { "type": "string" }
+      }
+    },
+    "composite_division": {
+      "type": "object",
+      "properties": {
+        "type": { "type": "string" },
+        "label": { "type": "string" }
+      }
+    }
+  }
+}
