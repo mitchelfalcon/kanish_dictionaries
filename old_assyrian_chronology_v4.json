@@ -1,0 +1,176 @@
+{
+  "vault_metadata": {
+    "corpus_name": "Old Assyrian Eponym (Līmu) Registry",
+    "version": "4.1",
+    "source_context": "Kültepe Eponym Lists (KEL G, I, A)",
+    "chronology_standard": "Middle Chronology (Veenhof 2003)",
+    "total_records": "Sampled Strategic Nodes",
+    "engineering_metrics": {
+      "temporal_coverage": "c. 1974 BCE - 1718 BCE",
+      "anchor_points": ["Solar Eclipse 1833 BCE", "Destruction of Level II"],
+      "synchronization_status": "CALIBRATED"
+    }
+  },
+  "chronology_registry": [
+    {
+      "epoch_group": "REIGN_OF_ERISHUM_I",
+      "description": "Establishment of the Karum System and Free Trade Reforms",
+      "archaeological_stratum": "EARLY_LEVEL_II",
+      "time_range_bce": "1974 - 1935",
+      "limu_entries": [
+        {
+          "kel_sequence": 1,
+          "limu_name_normalized": "Ilī-šuma",
+          "limu_name_akkadian": "DINGER-šu-ma",
+          "patronymic": "King of Assyria",
+          "year_bce_middle": 1974,
+          "role_context": "ROYAL_EPONYM",
+          "historical_significance": {
+            "event_type": "ACCESSION_YEAR",
+            "impact": "foundational_tax_exemption",
+            "trade_volume_index": "RISING"
+          },
+          "data_integrity_id": 8009,
+          "tags": ["adda_guppa_free_trade", "brick_inscriptions"]
+        },
+        {
+          "kel_sequence": 25,
+          "limu_name_normalized": "Aššur-inidī",
+          "limu_name_akkadian": "A-šur-ì-ni-di",
+          "patronymic": "unknown",
+          "year_bce_middle": 1950,
+          "role_context": "CIVIL_EPONYM",
+          "historical_significance": {
+            "event_type": "ADMINISTRATIVE",
+            "impact": "standard_trade_flow",
+            "trade_volume_index": "HIGH"
+          },
+          "data_integrity_id": 8011,
+          "tags": ["early_contracts", "puzur_ashur_genealogy"]
+        }
+      ]
+    },
+    {
+      "epoch_group": "REIGN_OF_SARGON_I",
+      "description": "Peak of Commercial Activity and Institutionalization",
+      "archaeological_stratum": "HIGH_LEVEL_II",
+      "time_range_bce": "1920 - 1881",
+      "limu_entries": [
+        {
+          "kel_sequence": 40,
+          "limu_name_normalized": "Šarrum-kēn I",
+          "limu_name_akkadian": "LUGAL-GI.NA",
+          "patronymic": "Ikūnum",
+          "year_bce_middle": 1920,
+          "role_context": "ROYAL_EPONYM",
+          "historical_significance": {
+            "event_type": "CORONATION",
+            "impact": "fortification_of_assur",
+            "trade_volume_index": "PEAK"
+          },
+          "data_integrity_id": 8023,
+          "tags": ["namesake_of_akkad", "institutional_stability"]
+        },
+        {
+          "kel_sequence": 54,
+          "limu_name_normalized": "Ennam-Aššur",
+          "limu_name_akkadian": "En-nam-A-šur",
+          "patronymic": "Suhārum",
+          "year_bce_middle": 1906,
+          "role_context": "CIVIL_EPONYM",
+          "historical_significance": {
+            "event_type": "COMMERCIAL_EXPANSION",
+            "impact": "high_archive_density",
+            "trade_volume_index": "CRITICAL"
+          },
+          "data_integrity_id": 8029,
+          "tags": ["most_cited_year", "innaya_archive_peak"]
+        }
+      ]
+    },
+    {
+      "epoch_group": "REIGN_OF_PUZUR_ASHUR_II",
+      "description": "Late Level II and the Astronomical Anchor",
+      "archaeological_stratum": "LATE_LEVEL_II",
+      "time_range_bce": "1880 - 1873",
+      "limu_entries": [
+        {
+          "kel_sequence": 80,
+          "limu_name_normalized": "Puzur-Ištar",
+          "limu_name_akkadian": "Puzur4-Ištar",
+          "patronymic": "Sabanum",
+          "year_bce_middle": 1833,
+          "role_context": "CIVIL_EPONYM",
+          "historical_significance": {
+            "event_type": "ASTRONOMICAL_ANCHOR",
+            "impact": "chronology_synchronization",
+            "trade_volume_index": "STABLE"
+          },
+          "data_integrity_id": 8053,
+          "tags": ["solar_eclipse", "mari_eponym_chronicle", "shamshi_adad_birth"]
+        }
+      ]
+    },
+    {
+      "epoch_group": "THE_GREAT_GAP",
+      "description": "Destruction of Kanesh Level II and Hiatus",
+      "archaeological_stratum": "DESTRUCTION_LAYER",
+      "time_range_bce": "1837 - 1798",
+      "limu_entries": [
+        {
+          "kel_sequence": 99,
+          "limu_name_normalized": "N/A (Disruption)",
+          "limu_name_akkadian": "N/A",
+          "patronymic": "N/A",
+          "year_bce_middle": 1836,
+          "role_context": "CATASTROPHE",
+          "historical_significance": {
+            "event_type": "CITY_BURNING",
+            "impact": "cessation_of_trade",
+            "trade_volume_index": "ZERO"
+          },
+          "data_integrity_id": 8087,
+          "tags": ["fire_horizon", "abandonment", "eshnunna_conflict"]
+        }
+      ]
+    },
+    {
+      "epoch_group": "REIGN_OF_SHAMSHI_ADAD_I",
+      "description": "Revival under the Kingdom of Upper Mesopotamia",
+      "archaeological_stratum": "LEVEL_IB",
+      "time_range_bce": "1797 - 1718",
+      "limu_entries": [
+        {
+          "kel_sequence": 128,
+          "limu_name_normalized": "Šamšī-Adad I",
+          "limu_name_akkadian": "dUTU-ši-dIM",
+          "patronymic": "Ila-kabkabu",
+          "year_bce_middle": 1776,
+          "role_context": "IMPERIAL_EPONYM",
+          "historical_significance": {
+            "event_type": "IMPERIAL_CONSOLIDATION",
+            "impact": "centralized_trade",
+            "trade_volume_index": "MEDIUM"
+          },
+          "data_integrity_id": 8093,
+          "tags": ["ekallatum_dynasty", "mari_letters_correspondence"]
+        },
+        {
+          "kel_sequence": 145,
+          "limu_name_normalized": "Aššur-taklāku",
+          "limu_name_akkadian": "A-šur-ták-lá-ku",
+          "patronymic": "Ennam-Aššur",
+          "year_bce_middle": 1759,
+          "role_context": "CIVIL_EPONYM",
+          "historical_significance": {
+            "event_type": "LATE_TRADE",
+            "impact": "declining_influence",
+            "trade_volume_index": "DECLINING"
+          },
+          "data_integrity_id": 8101,
+          "tags": ["hammurabi_contemporary", "restricted_routes"]
+        }
+      ]
+    }
+  ]
+}
