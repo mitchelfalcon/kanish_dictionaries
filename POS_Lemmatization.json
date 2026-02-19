@@ -1,0 +1,170 @@
+[
+  {
+    "category": "General Principle",
+    "element_code": "Short Lemmatization",
+    "description": "If the lemmatization is known by the system.",
+    "examples_and_notes": "kalbi[dog]N"
+  },
+  {
+    "category": "General Principle",
+    "element_code": "Long Lemmatization",
+    "description": "If it contains new information (CF GW SENSE POS EPOS NORM0).",
+    "examples_and_notes": "+kalbu[dog]N$kalbika"
+  },
+  {
+    "category": "General Principle",
+    "element_code": "CF (Citation Form)",
+    "description": "Based on the Concise Dictionary of Akkadian (CDA). No imitation. CDA parentheses are ignored.",
+    "examples_and_notes": "CDA a(p)puttum -> CA +apputtu"
+  },
+  {
+    "category": "General Principle",
+    "element_code": "GW (Guide Word)",
+    "description": "First translation in CDA. Use [unit] for weights/measures.",
+    "examples_and_notes": "adirtu in CDA 'fear, apprehension' -> +adirtu[fear]N"
+  },
+  {
+    "category": "General Principle",
+    "element_code": "SENSE (Sense)",
+    "description": "Local meaning. Added with // after the GW.",
+    "examples_and_notes": "+hiāṭu[supervise//survey]V'V$hīṭma"
+  },
+  {
+    "category": "General Principle",
+    "element_code": "EPOS",
+    "description": "Effective Part of Speech. Used when the function differs from the original POS.",
+    "examples_and_notes": "+kī[like//when]PRP'SBJ$"
+  },
+  {
+    "category": "General Principle",
+    "element_code": "NORM0",
+    "description": "Normalization. Do not use secondary length. Normalize what is written.",
+    "examples_and_notes": "+šaṭru[written]AJ$šaṭirma"
+  },
+  {
+    "category": "Basic Class",
+    "element_code": "AJ",
+    "description": "Adjective (including statives and participles if they modify a noun)",
+    "examples_and_notes": "+šaṭru[written]AJ"
+  },
+  {
+    "category": "Basic Class",
+    "element_code": "AV",
+    "description": "Adverb (temporal, interrogative, demonstrative)",
+    "examples_and_notes": "inanna[now], ali[where]"
+  },
+  {
+    "category": "Basic Class",
+    "element_code": "N",
+    "description": "Noun (including statives used as a noun)",
+    "examples_and_notes": "bēlu[lord]N"
+  },
+  {
+    "category": "Basic Class",
+    "element_code": "NU",
+    "description": "Number (only if it starts syllabically or has a complement)",
+    "examples_and_notes": "2{+u} = +šanû[two]NU$"
+  },
+  {
+    "category": "Basic Class",
+    "element_code": "V",
+    "description": "Verb (infinitives are V'N)",
+    "examples_and_notes": "+qabû[say//saying]V'N$"
+  },
+  {
+    "category": "Pronoun",
+    "element_code": "DP",
+    "description": "Demonstrative pronoun",
+    "examples_and_notes": "annû[this], ullû[that]"
+  },
+  {
+    "category": "Pronoun",
+    "element_code": "IP",
+    "description": "Independent/anaphoric pronoun (nom, acc/gen, dat)",
+    "examples_and_notes": "anāku[I], šū[he]"
+  },
+  {
+    "category": "Pronoun",
+    "element_code": "PP",
+    "description": "Possessive pronoun",
+    "examples_and_notes": "yû[mine], kû[yours]"
+  },
+  {
+    "category": "Pronoun",
+    "element_code": "QP",
+    "description": "Interrogative pronoun",
+    "examples_and_notes": "ayyû[which?], mīnu[what?]"
+  },
+  {
+    "category": "Pronoun",
+    "element_code": "RP",
+    "description": "Reflexive/reciprocal pronoun",
+    "examples_and_notes": "ramānu[self], ahāmiš[each other]"
+  },
+  {
+    "category": "Pronoun",
+    "element_code": "XP",
+    "description": "Indefinite pronoun",
+    "examples_and_notes": "ayyumma[anyone], mimma[something]"
+  },
+  {
+    "category": "Pronoun",
+    "element_code": "REL",
+    "description": "Relative pronoun",
+    "examples_and_notes": "ša[that/which], mala[as much as]"
+  },
+  {
+    "category": "Pronoun",
+    "element_code": "DET",
+    "description": "Determinative pronoun",
+    "examples_and_notes": "ša[of], šūt[of]"
+  },
+  {
+    "category": "Other POS",
+    "element_code": "CNJ",
+    "description": "Conjunction",
+    "examples_and_notes": "lū[either/or], u[and]"
+  },
+  {
+    "category": "Other POS",
+    "element_code": "J",
+    "description": "Interjection",
+    "examples_and_notes": "anna[yes], ai[alas]"
+  },
+  {
+    "category": "Other POS",
+    "element_code": "MOD",
+    "description": "Modal, negative or conditional particle",
+    "examples_and_notes": "lā[not], šumma[if]"
+  },
+  {
+    "category": "Other POS",
+    "element_code": "PRP",
+    "description": "Preposition",
+    "examples_and_notes": "ina[in], ana[to]"
+  },
+  {
+    "category": "Other POS",
+    "element_code": "SBJ",
+    "description": "Subjunction",
+    "examples_and_notes": "inūma[when], kīma[as]"
+  },
+  {
+    "category": "Special",
+    "element_code": "COF",
+    "description": "Compound Orthographic Forms (joined with &)",
+    "examples_and_notes": "ip-pan = ina[in]PRP&pān[front]N"
+  },
+  {
+    "category": "Special",
+    "element_code": "PSU",
+    "description": "Phrasal Semantic Units (idioms). Require their own entry.",
+    "examples_and_notes": "EME.UR.GI₇ = +lišānu[tongue]N$lišān&+kalbu[dog]N$kalbi"
+  },
+  {
+    "category": "Special",
+    "element_code": "PN",
+    "description": "Proper Names. Initial capital letter. No long vowels.",
+    "examples_and_notes": "ri-hat-{d}60 = +Rihat-Anu[]PN$"
+  }
+]
