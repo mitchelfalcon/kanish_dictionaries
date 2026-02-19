@@ -1,0 +1,551 @@
+[
+  {
+    "category_group": "METALS_AND_RAW_MATERIALS",
+    "entities": [
+      {
+        "term_akkadian": "erûm",
+        "logogram": "URUDU / ZABAR",
+        "translation_en": "bronze",
+        "category": "COMMODITY",
+        "economic_function": { "role": "industrial_alloy", "value_tier": "LOCAL_COMMODITY", "risk_profile": "LOW" },
+        "gematria_prime_id": 1039,
+        "context_tags": ["alloy", "tools_production"]
+      },
+      {
+        "term_akkadian": "husārum",
+        "logogram": "NA4.ZA.GÌN",
+        "translation_en": "lapis lazuli",
+        "category": "COMMODITY",
+        "sub_category": "GEMSTONE",
+        "economic_function": { "role": "luxury_import", "value_tier": "HIGH_VALUE_ASSET", "risk_profile": "HIGH" },
+        "gematria_prime_id": 1049,
+        "context_tags": ["afghanistan_origin", "prestige_seals"]
+      },
+      {
+        "term_akkadian": "itqum",
+        "logogram": null,
+        "translation_en": "fleece",
+        "category": "COMMODITY",
+        "sub_category": "RAW_MATERIAL",
+        "economic_function": { "role": "raw_input", "value_tier": "LOCAL_COMMODITY", "risk_profile": "LOW" },
+        "gematria_prime_id": 1051,
+        "context_tags": ["unprocessed", "shearing"]
+      }
+    ]
+  },
+  {
+    "category_group": "TEXTILES_VARIETIES",
+    "entities": [
+      {
+        "term_akkadian": "šūrum",
+        "logogram": null,
+        "translation_en": "black wool textile",
+        "category": "COMMODITY",
+        "sub_category": "WOOL_TEXTILE",
+        "economic_function": { "role": "market_variant", "value_tier": "STANDARD_GOOD", "risk_profile": "MEDIUM" },
+        "gematria_prime_id": 1061,
+        "context_tags": ["specific_color", "regional_taste"]
+      },
+      {
+        "term_akkadian": "šuburum",
+        "logogram": null,
+        "translation_en": "Subarian textile",
+        "category": "COMMODITY",
+        "sub_category": "REGIONAL_TEXTILE",
+        "economic_function": { "role": "niche_export", "value_tier": "STANDARD_GOOD", "risk_profile": "MEDIUM" },
+        "gematria_prime_id": 1087,
+        "context_tags": ["geographic_origin", "style_marker"]
+      },
+      {
+        "term_akkadian": "epattum",
+        "logogram": null,
+        "translation_en": "luxury garment",
+        "category": "COMMODITY",
+        "sub_category": "FINISHED_GOOD",
+        "economic_function": { "role": "elite_consumption", "value_tier": "HIGH_VALUE_ASSET", "risk_profile": "MEDIUM" },
+        "gematria_prime_id": 1093,
+        "context_tags": ["royal_gift", "high_margin"]
+      }
+    ]
+  },
+  {
+    "category_group": "FINANCIAL_MECHANISMS_AND_DEBT",
+    "entities": [
+      {
+        "term_akkadian": "šīmum",
+        "logogram": "ŠÁM",
+        "translation_en": "price / purchase",
+        "category": "FINANCIAL_CONCEPT",
+        "sub_category": "VALUATION",
+        "economic_function": { "role": "market_clearing", "value_tier": "CRITICAL_CONCEPT", "risk_profile": "VARIES" },
+        "gematria_prime_id": 1151,
+        "context_tags": ["market_fluctuation", "silver_equivalent"]
+      },
+      {
+        "term_akkadian": "tadmiqtum",
+        "logogram": null,
+        "translation_en": "friendly loan / consignment",
+        "category": "FINANCIAL_INSTRUMENT",
+        "sub_category": "CREDIT",
+        "economic_function": { "role": "interest_free_capital", "value_tier": "RELATIONAL_ASSET", "risk_profile": "HIGH" },
+        "gematria_prime_id": 1153,
+        "context_tags": ["partnership", "no_interest", "social_collateral"]
+      },
+      {
+        "term_akkadian": "nēmelum",
+        "logogram": null,
+        "translation_en": "profit",
+        "category": "FINANCIAL_RESULT",
+        "sub_category": "GAIN",
+        "economic_function": { "role": "business_goal", "value_tier": "HIGH_VALUE_ASSET", "risk_profile": "N/A" },
+        "gematria_prime_id": 1163,
+        "context_tags": ["dividends", "net_income"]
+      },
+      {
+        "term_akkadian": "babtum",
+        "logogram": null,
+        "translation_en": "outstanding balance / deficit",
+        "category": "FINANCIAL_STATUS",
+        "sub_category": "LIABILITY",
+        "economic_function": { "role": "receivables", "value_tier": "PENDING_ASSET", "risk_profile": "MEDIUM" },
+        "gematria_prime_id": 1171,
+        "context_tags": ["accounting_gap", "delayed_payment"]
+      },
+      {
+        "term_akkadian": "ikribū",
+        "logogram": null,
+        "translation_en": "votive funds",
+        "category": "FINANCIAL_INSTRUMENT",
+        "sub_category": "RELIGIOUS_CAPITAL",
+        "economic_function": { "role": "temple_investment", "value_tier": "RESTRICTED_ASSET", "risk_profile": "CRITICAL" },
+        "gematria_prime_id": 1181,
+        "context_tags": ["temple_loan", "sacred_money"]
+      },
+      {
+        "term_akkadian": "iširtum",
+        "logogram": null,
+        "translation_en": "collection",
+        "category": "FINANCIAL_ACTION",
+        "sub_category": "ENFORCEMENT",
+        "economic_function": { "role": "debt_recovery", "value_tier": "SERVICE", "risk_profile": "HIGH" },
+        "gematria_prime_id": 1187,
+        "context_tags": ["legal_pressure", "payment"]
+      },
+      {
+        "term_akkadian": "našbatum",
+        "logogram": null,
+        "translation_en": "deposit",
+        "category": "FINANCIAL_INSTRUMENT",
+        "sub_category": "SECURITY",
+        "economic_function": { "role": "collateral", "value_tier": "HELD_ASSET", "risk_profile": "LOW" },
+        "gematria_prime_id": 1193,
+        "context_tags": ["guarantee", "safe_keeping"]
+      }
+    ]
+  },
+  {
+    "category_group": "TAXATION_AND_COSTS",
+    "entities": [
+      {
+        "term_akkadian": "šaddu'utu",
+        "logogram": null,
+        "translation_en": "management fee / tax",
+        "category": "COST",
+        "sub_category": "ADMINISTRATIVE",
+        "economic_function": { "role": "institutional_revenue", "value_tier": "OVERHEAD", "risk_profile": "LOW" },
+        "gematria_prime_id": 1201,
+        "context_tags": ["karum_tax", "percentage_cut"]
+      },
+      {
+        "term_akkadian": "šaddā'utum",
+        "logogram": null,
+        "translation_en": "transport fee",
+        "category": "COST",
+        "sub_category": "LOGISTICS",
+        "economic_function": { "role": "hauling_cost", "value_tier": "OPERATIONAL_EXPENSE", "risk_profile": "LOW" },
+        "gematria_prime_id": 1213,
+        "context_tags": ["payment_to_porter", "distance_based"]
+      },
+      {
+        "term_akkadian": "dātum",
+        "logogram": null,
+        "translation_en": "road tax / toll",
+        "category": "COST",
+        "sub_category": "TRANSIT",
+        "economic_function": { "role": "safe_passage", "value_tier": "OPERATIONAL_EXPENSE", "risk_profile": "MEDIUM" },
+        "gematria_prime_id": 1217,
+        "context_tags": ["local_kings", "right_of_way"]
+      },
+      {
+        "term_akkadian": "gamrum",
+        "logogram": null,
+        "translation_en": "expenses",
+        "category": "COST",
+        "sub_category": "GENERAL",
+        "economic_function": { "role": "overhead_deduction", "value_tier": "ACCOUNTING_ENTRY", "risk_profile": "LOW" },
+        "gematria_prime_id": 1223,
+        "context_tags": ["miscellaneous", "deductible"]
+      }
+    ]
+  },
+  {
+    "category_group": "FAMILY_STRUCTURE",
+    "entities": [
+      {
+        "term_akkadian": "abum",
+        "logogram": "AD",
+        "translation_en": "father",
+        "category": "FAMILY",
+        "sub_category": "PATRIARCH",
+        "economic_function": { "role": "firm_director", "value_tier": "DECISION_MAKER", "risk_profile": "LOW" },
+        "gematria_prime_id": 2003,
+        "context_tags": ["head_office_assur", "authority"]
+      },
+      {
+        "term_akkadian": "ummum",
+        "logogram": "AMA",
+        "translation_en": "mother",
+        "category": "FAMILY",
+        "sub_category": "MATRIARCH",
+        "economic_function": { "role": "domestic_manager", "value_tier": "DECISION_MAKER", "risk_profile": "LOW" },
+        "gematria_prime_id": 2011,
+        "context_tags": ["textile_production_head", "proxy"]
+      },
+      {
+        "term_akkadian": "mārum",
+        "logogram": "DUMU",
+        "translation_en": "son",
+        "category": "FAMILY",
+        "sub_category": "HEIR",
+        "economic_function": { "role": "traveling_agent", "value_tier": "FUTURE_PRINCIPAL", "risk_profile": "HIGH" },
+        "gematria_prime_id": 2017,
+        "context_tags": ["apprentice", "junior_partner"]
+      },
+      {
+        "term_akkadian": "mārtum",
+        "logogram": "DUMU.MUNUS",
+        "translation_en": "daughter",
+        "category": "FAMILY",
+        "sub_category": "PRODUCER",
+        "economic_function": { "role": "textile_weaver", "value_tier": "VALUE_ADDER", "risk_profile": "LOW" },
+        "gematria_prime_id": 2027,
+        "context_tags": ["expert_weaver", "financial_literate"]
+      },
+      {
+        "term_akkadian": "aḥum",
+        "logogram": "ŠEŠ",
+        "translation_en": "brother",
+        "category": "FAMILY",
+        "sub_category": "PARTNER",
+        "economic_function": { "role": "lateral_associate", "value_tier": "PARTNER", "risk_profile": "MEDIUM" },
+        "gematria_prime_id": 2029,
+        "context_tags": ["consortium_member", "rival"]
+      },
+      {
+        "term_akkadian": "aššatum",
+        "logogram": "DAM",
+        "translation_en": "wife",
+        "category": "FAMILY",
+        "sub_category": "PARTNER",
+        "economic_function": { "role": "legal_proxy", "value_tier": "DECISION_MAKER", "risk_profile": "MEDIUM" },
+        "gematria_prime_id": 2039,
+        "context_tags": ["power_of_attorney", "household_head"]
+      }
+    ]
+  },
+  {
+    "category_group": "OPERATIONAL_ROLES",
+    "entities": [
+      {
+        "term_akkadian": "sāridum",
+        "logogram": null,
+        "translation_en": "donkey driver",
+        "category": "LABOR",
+        "sub_category": "TRANSPORT",
+        "economic_function": { "role": "animal_handler", "value_tier": "WAGE_LABOR", "risk_profile": "MEDIUM" },
+        "gematria_prime_id": 3001,
+        "context_tags": ["blue_collar", "trail_expertise"]
+      },
+      {
+        "term_akkadian": "dā'ikū",
+        "logogram": null,
+        "translation_en": "bandit / killer",
+        "category": "EXTERNAL_THREAT",
+        "sub_category": "CRIMINAL",
+        "economic_function": { "role": "wealth_extraction", "value_tier": "NEGATIVE_VALUE", "risk_profile": "CRITICAL" },
+        "gematria_prime_id": 3011,
+        "context_tags": ["robbery", "mountain_pass"]
+      },
+      {
+        "term_akkadian": "wašibum",
+        "logogram": null,
+        "translation_en": "resident",
+        "category": "STATUS",
+        "sub_category": "CIVILIAN",
+        "economic_function": { "role": "consumer", "value_tier": "MARKET_BASE", "risk_profile": "LOW" },
+        "gematria_prime_id": 3019,
+        "context_tags": ["non_traveling", "local"]
+      }
+    ]
+  },
+  {
+    "category_group": "ACTIONS_AND_VERBS",
+    "entities": [
+      {
+        "term_akkadian": "abākum",
+        "logogram": null,
+        "translation_en": "to dispatch / lead",
+        "category": "VERB",
+        "sub_category": "LOGISTICS",
+        "economic_function": { "role": "initiate_transport", "value_tier": "ACTION", "risk_profile": "MEDIUM" },
+        "gematria_prime_id": 4001,
+        "context_tags": ["sending_goods", "imperative_abkam"]
+      },
+      {
+        "term_akkadian": "šaqālum",
+        "logogram": "LÁ",
+        "translation_en": "to weigh / pay",
+        "category": "VERB",
+        "sub_category": "TRANSACTION",
+        "economic_function": { "role": "finalize_deal", "value_tier": "ACTION", "risk_profile": "LOW" },
+        "gematria_prime_id": 4003,
+        "context_tags": ["silver_payment", "precision"]
+      },
+      {
+        "term_akkadian": "nadānum",
+        "logogram": "SUM",
+        "translation_en": "to give / sell",
+        "category": "VERB",
+        "sub_category": "TRANSACTION",
+        "economic_function": { "role": "transfer_ownership", "value_tier": "ACTION", "risk_profile": "LOW" },
+        "gematria_prime_id": 4007,
+        "context_tags": ["exchange", "delivery"]
+      },
+      {
+        "term_akkadian": "alākum",
+        "logogram": "DU",
+        "translation_en": "to go / travel",
+        "category": "VERB",
+        "sub_category": "MOVEMENT",
+        "economic_function": { "role": "caravan_movement", "value_tier": "ACTION", "risk_profile": "HIGH" },
+        "gematria_prime_id": 4013,
+        "context_tags": ["journey", "courier_run"]
+      },
+      {
+        "term_akkadian": "amārum",
+        "logogram": "IGI",
+        "translation_en": "to inspect / see",
+        "category": "VERB",
+        "sub_category": "AUDIT",
+        "economic_function": { "role": "quality_control", "value_tier": "ACTION", "risk_profile": "LOW" },
+        "gematria_prime_id": 4019,
+        "context_tags": ["check_seals", "read_tablet"]
+      },
+      {
+        "term_akkadian": "leqûm",
+        "logogram": "ŠU.BA.AN.TI",
+        "translation_en": "to take / receive",
+        "category": "VERB",
+        "sub_category": "TRANSACTION",
+        "economic_function": { "role": "accept_liability", "value_tier": "ACTION", "risk_profile": "LOW" },
+        "gematria_prime_id": 4021,
+        "context_tags": ["borrowing", "receipt"]
+      },
+      {
+        "term_akkadian": "kašādum",
+        "logogram": "KUR",
+        "translation_en": "to reach / arrive / conquer",
+        "category": "VERB",
+        "sub_category": "LOGISTICS",
+        "economic_function": { "role": "complete_transit", "value_tier": "ACTION", "risk_profile": "LOW" },
+        "gematria_prime_id": 4027,
+        "context_tags": ["arrival_at_karum", "asset_seizure"]
+      },
+      {
+        "term_akkadian": "bârum",
+        "logogram": null,
+        "translation_en": "to seize / catch",
+        "category": "VERB",
+        "sub_category": "LEGAL",
+        "economic_function": { "role": "litigation_start", "value_tier": "ACTION", "risk_profile": "HIGH" },
+        "gematria_prime_id": 4049,
+        "context_tags": ["detain_debtor", "legal_dispute"]
+      }
+    ]
+  },
+  {
+    "category_group": "ARTIFACTS_AND_EQUIPMENT",
+    "entities": [
+      {
+        "term_akkadian": "imērum",
+        "logogram": "ANŠE",
+        "translation_en": "donkey",
+        "category": "ASSET",
+        "sub_category": "LIVESTOCK",
+        "economic_function": { "role": "cargo_carrier", "value_tier": "CAPITAL_ASSET", "risk_profile": "MEDIUM" },
+        "gematria_prime_id": 5003,
+        "context_tags": ["black_donkey", "pack_animal"]
+      },
+      {
+        "term_akkadian": "šīmtum",
+        "logogram": null,
+        "translation_en": "brand / mark",
+        "category": "IDENTIFIER",
+        "sub_category": "SECURITY",
+        "economic_function": { "role": "ownership_proof", "value_tier": "DATA_CONTAINER", "risk_profile": "LOW" },
+        "gematria_prime_id": 5009,
+        "context_tags": ["cattle_brand", "container_mark"]
+      },
+      {
+        "term_akkadian": "lippum",
+        "logogram": null,
+        "translation_en": "tag",
+        "category": "ARTIFACT",
+        "sub_category": "LABEL",
+        "economic_function": { "role": "indexing", "value_tier": "DATA_CONTAINER", "risk_profile": "LOW" },
+        "gematria_prime_id": 5011,
+        "context_tags": ["clay_label", "archive_organizer"]
+      },
+      {
+        "term_akkadian": "šipattum",
+        "logogram": null,
+        "translation_en": "sealing / bulla",
+        "category": "ARTIFACT",
+        "sub_category": "SECURITY",
+        "economic_function": { "role": "tamper_evidence", "value_tier": "VALIDATION", "risk_profile": "CRITICAL" },
+        "gematria_prime_id": 5021,
+        "context_tags": ["clay_impression", "lock"]
+      },
+      {
+        "term_akkadian": "lē'um",
+        "logogram": "GIŠ.LE",
+        "translation_en": "writing board",
+        "category": "ARTIFACT",
+        "sub_category": "DOCUMENT",
+        "economic_function": { "role": "temporary_record", "value_tier": "DATA_CONTAINER", "risk_profile": "MEDIUM" },
+        "gematria_prime_id": 5023,
+        "context_tags": ["wax_covered", "wood"]
+      },
+      {
+        "term_akkadian": "abnum",
+        "logogram": "NA4",
+        "translation_en": "weight / stone",
+        "category": "ARTIFACT",
+        "sub_category": "METROLOGY",
+        "economic_function": { "role": "measurement_tool", "value_tier": "TOOL", "risk_profile": "LOW" },
+        "gematria_prime_id": 5039,
+        "context_tags": ["balance_weight", "hematite"]
+      },
+      {
+        "term_akkadian": "quppum",
+        "logogram": "GI.PISAN",
+        "translation_en": "basket / archive box",
+        "category": "ARTIFACT",
+        "sub_category": "STORAGE",
+        "economic_function": { "role": "tablet_storage", "value_tier": "CONTAINER", "risk_profile": "LOW" },
+        "gematria_prime_id": 5051,
+        "context_tags": ["archive", "reed_box"]
+      },
+      {
+        "term_akkadian": "patrum",
+        "logogram": "GÍR",
+        "translation_en": "dagger",
+        "category": "ARTIFACT",
+        "sub_category": "WEAPON",
+        "economic_function": { "role": "personal_defense", "value_tier": "TOOL", "risk_profile": "HIGH" },
+        "gematria_prime_id": 5059,
+        "context_tags": ["iron_dagger", "belt_wear"]
+      }
+    ]
+  },
+  {
+    "category_group": "LOCATIONS_AND_NODES",
+    "entities": [
+      {
+        "term_akkadian": "kārum",
+        "logogram": "KAR",
+        "translation_en": "colony / quay",
+        "category": "LOCATION",
+        "sub_category": "HUB",
+        "economic_function": { "role": "trade_administration", "value_tier": "INFRASTRUCTURE", "risk_profile": "LOW" },
+        "gematria_prime_id": 6007,
+        "context_tags": ["kanesh", "judicial_seat"]
+      },
+      {
+        "term_akkadian": "bēt kārim",
+        "logogram": "É.KAR",
+        "translation_en": "house of the colony",
+        "category": "LOCATION",
+        "sub_category": "INSTITUTION",
+        "economic_function": { "role": "central_bank_court", "value_tier": "AUTHORITY", "risk_profile": "LOW" },
+        "gematria_prime_id": 6011,
+        "context_tags": ["headquarters", "tax_office"]
+      },
+      {
+        "term_akkadian": "wabartum",
+        "logogram": null,
+        "translation_en": "trading station",
+        "category": "LOCATION",
+        "sub_category": "OUTPOST",
+        "economic_function": { "role": "secondary_market", "value_tier": "INFRASTRUCTURE", "risk_profile": "MEDIUM" },
+        "gematria_prime_id": 6029,
+        "context_tags": ["satellite", "small_settlement"]
+      },
+      {
+        "term_akkadian": "ellatum",
+        "logogram": "KASKAL",
+        "translation_en": "caravan",
+        "category": "LOGISTICS_UNIT",
+        "sub_category": "MOBILE_ENTITY",
+        "economic_function": { "role": "bulk_transport", "value_tier": "HIGH_VALUE_CONVOY", "risk_profile": "HIGH" },
+        "gematria_prime_id": 6037,
+        "context_tags": ["collective_enterprise", "armed_escort"]
+      },
+      {
+        "term_akkadian": "ḥarrān šūqinnim",
+        "logogram": "KASKAL...",
+        "translation_en": "narrow track / smuggling route",
+        "category": "LOCATION",
+        "sub_category": "ROUTE",
+        "economic_function": { "role": "tax_evasion_path", "value_tier": "RISK_CORRIDOR", "risk_profile": "CRITICAL" },
+        "gematria_prime_id": 6043,
+        "context_tags": ["mountains", "bypassing_customs"]
+      }
+    ]
+  },
+  {
+    "category_group": "PROSOPOGRAPHY_KEY_FIGURES",
+    "entities": [
+      {
+        "term_akkadian": "Puzur-Aššur",
+        "logogram": "PN",
+        "translation_en": "Puzur-Ashur",
+        "category": "PERSON",
+        "sub_category": "HISTORICAL_FIGURE",
+        "economic_function": { "role": "firm_founder", "value_tier": "LEGACY", "risk_profile": "N/A" },
+        "gematria_prime_id": 7001,
+        "context_tags": ["dynasty", "archive_owner"]
+      },
+      {
+        "term_akkadian": "Innāya",
+        "logogram": "PN",
+        "translation_en": "Innaya",
+        "category": "PERSON",
+        "sub_category": "MERCHANT",
+        "economic_function": { "role": "active_trader", "value_tier": "PRINCIPAL", "risk_profile": "N/A" },
+        "gematria_prime_id": 7013,
+        "context_tags": ["prolific_author", "big_firm"]
+      },
+      {
+        "term_akkadian": "Aššur-idī",
+        "logogram": "PN",
+        "translation_en": "Ashur-idi",
+        "category": "PERSON",
+        "sub_category": "MERCHANT",
+        "economic_function": { "role": "family_head", "value_tier": "PRINCIPAL", "risk_profile": "N/A" },
+        "gematria_prime_id": 7019,
+        "context_tags": ["letters", "legal_cases"]
+      }
+    ]
+  }
+]
